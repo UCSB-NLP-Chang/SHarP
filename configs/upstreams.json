@@ -1,0 +1,39 @@
+{
+  "life": {
+    "url": "https://github.com/Tianshi-Xu/Life-Harness.git",
+    "commit": "90cd7adedadc8d83055b78286f96a28569d5877e",
+    "source_verification": "Compared release source files against the pinned upstream; generated workspaces and data excluded."
+  },
+  "shopping": {
+    "url": "https://github.com/bingreeky/JIT.git",
+    "commit": "ababa06c2f54d799fd9fbc356e5368f61a452260",
+    "source_verification": "Compared release source files against the pinned upstream; generated workspaces and data excluded."
+  },
+  "paperqa2": {
+    "url": "https://github.com/Future-House/paper-qa.git",
+    "commit": "ac4ff91ad703e6816cb620ea579a98ca0c42c36f",
+    "source_verification": "Compared release source files against the pinned upstream; generated workspaces and data excluded.",
+    "patch": "patches/paperqa2.patch",
+    "patched_files": {
+      "src/paperqa/agents/search.py": "2c8420c048d9718a52a46555a7fcab28abcb41e01d5dd08409e640a1bb59773f"
+    }
+  },
+  "gaia": {
+    "url": "https://github.com/All-Hands-AI/benchmarks",
+    "commit": "82687c83dfcc193989336f41d235612c02f2c044",
+    "source_verification": "Compared release source files against the pinned upstream; generated workspaces and data excluded.",
+    "patch": "patches/gaia.patch",
+    "patched_files": {
+      "benchmarks/gaia/run_infer.py": "f1ab1f79a635da33ef577fa48c0edbde527a7935ee128dd32e1e24a1175c2b7c",
+      "benchmarks/utils/args_parser.py": "6f82660ee61016112f24350603a7f4db35c5277906971e254f46c2a05b21d7f1",
+      "benchmarks/utils/evaluation.py": "052ab72afa39fc308f231c2dc0b05a19184f855bb21d27459231a49c95cb7902",
+      "benchmarks/utils/fake_user_response.py": "45f0794e75e9d2e21e2c9ae13dc0ac1d2bb93a69e1619100ad7c6ddbfadbb9e9",
+      "benchmarks/utils/models.py": "476ef8a9914aee073dd10b5dcbd48907a852b71a51f6fe4f45c273dec83ecf99",
+      "benchmarks/utils/version.py": "dbd243e3e01df3a7067e69ffbe289d693c3d1f4c02e7665285625cb74a2dc812"
+    },
+    "submodule": {
+      "path": "vendor/software-agent-sdk",
+      "commit": "43376f1868ffd702746080714a59c16d3f69ec12"
+    }
+  }
+}

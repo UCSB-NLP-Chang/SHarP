@@ -1,0 +1,10 @@
+name: sharp-core
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pip>=24
+  - git>=2.40
+# Install the selected harness with: bash scripts/setup.sh <target> --conda
+# Override the environment name with -n sharp-life, sharp-shopping, etc.

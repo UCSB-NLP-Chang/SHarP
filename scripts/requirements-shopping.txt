@@ -1,0 +1,15 @@
+# Dependencies imported by the pinned JIT Agentfold/Shopping execution path.
+openai>=1.0
+PyYAML>=6,<7
+jinja2>=3.1
+requests>=2.31
+rich>=13
+json-repair>=0.30
+tiktoken>=0.7
+numpy>=1.26
+pandas>=2.2
+Pillow>=10
+beautifulsoup4>=4.12
+markdownify>=0.13
+tqdm>=4.66
+loguru>=0.7

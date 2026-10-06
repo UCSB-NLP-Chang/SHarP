@@ -1,0 +1,7 @@
+# OpenHands V1 pinned versions for GAIA harness-pruning
+benchmarks_repo: https://github.com/All-Hands-AI/benchmarks
+benchmarks_commit: 82687c83dfcc193989336f41d235612c02f2c044
+sdk_submodule_path: vendor/software-agent-sdk
+sdk_submodule_commit: 43376f1868ffd702746080714a59c16d3f69ec12
+openhands_sdk_version: 1.27.0
+image_tag_would_be: ghcr.io/openhands/eval-agent-server:43376f1-gaia-binary (NOT pre-built; we use LocalWorkspace instead)

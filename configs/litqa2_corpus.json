@@ -1,0 +1,4048 @@
+{
+  "schema_version": 1,
+  "verification_date": "2026-10-02",
+  "description": "LitQA2 source PDFs for the SHarP release. Browser sources require manual download and hash verification.",
+  "documents": [
+    {
+      "sha256": "a4be292da107a427c35d5eb6624967bdd24549c412bf1ba98bacf79411159f4d",
+      "doi": "10.1007/s00125-024-06103-w",
+      "bytes": 1600995,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A loss-of-function mutation in KCNJ11 causing sulfonylurea-sensitive diabetes in early adult life.",
+      "landing_page_url": "https://doi.org/10.1007/s00125-024-06103-w",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10954967.1/PMC10954967.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10954967.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10954967.1.json",
+          "access": "automatic",
+          "verified_sha256": "a4be292da107a427c35d5eb6624967bdd24549c412bf1ba98bacf79411159f4d"
+        }
+      ],
+      "version": "PMC10954967.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "c988d9d9aad82fe76566b8b61898c1d52ee0e7f3b596e36e87949ba814ae4026",
+      "doi": "10.1016/j.bpj.2022.02.026",
+      "bytes": 1728771,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Deciphering the molecular organization of GET pathway chaperones through native mass spectrometry.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9034188/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC9034188?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "47b1176a1a10e2260c35013873ae50fd05e45006b6eafe9165eb5a9b50f2e8c7",
+      "doi": "10.1016/j.bpj.2024.03.034",
+      "bytes": 2836148,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Single-cell mechanical assay unveils viscoelastic similarities in normal and neoplastic brain cells.",
+      "landing_page_url": "https://doi.org/10.1016/j.bpj.2024.03.034",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11079864.1/PMC11079864.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11079864.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11079864.1.json",
+          "access": "automatic",
+          "verified_sha256": "47b1176a1a10e2260c35013873ae50fd05e45006b6eafe9165eb5a9b50f2e8c7"
+        }
+      ],
+      "version": "PMC11079864.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "f8b7b0dd1332bacf409e094ecbf73f1f942443ce10c5916e62f1789c559127f3",
+      "doi": "10.1016/j.ccell.2021.11.002",
+      "bytes": 4020397,
+      "splits": [
+        "validation"
+      ],
+      "title": "The allergy mediator histamine confers resistance to immunotherapy in cancer patients via activation of the macrophage histamine receptor H1.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8779329/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC8779329?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "b1ddf42415eeb56a8aef1c13b66f2b2be5a6b60a1a25c96f15fe70d3468e703b",
+      "doi": "10.1016/j.ccell.2022.07.005",
+      "bytes": 2197645,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A covalent inhibitor of K-Ras(G12C) induces MHC class I presentation of haptenated peptide neoepitopes targetable by immunotherapy.",
+      "landing_page_url": "https://doi.org/10.1016/j.ccell.2022.07.005",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10393267.1/PMC10393267.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10393267.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10393267.1.json",
+          "access": "automatic",
+          "verified_sha256": "b1ddf42415eeb56a8aef1c13b66f2b2be5a6b60a1a25c96f15fe70d3468e703b"
+        }
+      ],
+      "version": "PMC10393267.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "79d6e54c6b881c2d6d5cb251b4b9ff48d1c50f5eeeb8b970e95af83ec520d385",
+      "doi": "10.1016/j.cell.2021.09.018",
+      "bytes": 9718560,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Enhanced prime editing systems by manipulating cellular determinants of editing outcomes.",
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2021.09.018",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8584034.1/PMC8584034.1.pdf",
+          "provider": "PMC",
+          "version": "PMC8584034.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC8584034.1.json",
+          "access": "automatic",
+          "verified_sha256": "79d6e54c6b881c2d6d5cb251b4b9ff48d1c50f5eeeb8b970e95af83ec520d385"
+        }
+      ],
+      "version": "PMC8584034.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "29cf0243a6b39414a54bed54701e29b4720c356ff1c1ee17fc14610a993a2f06",
+      "doi": "10.1016/j.cell.2022.05.018",
+      "bytes": 3394014,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Thymic epithelial cells co-opt lineage-defining transcription factors to eliminate autoreactive T\u00a0cells.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9469465/",
+      "sources": [
+        {
+          "url": "https://www.cell.com/article/S0092867422006493/pdf",
+          "provider": "OpenAlex OA location",
+          "version": "publishedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cell.2022.05.018",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC9469465?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "1c7bceee4943fdd0ab49f8ba4f738a046cf7d19e3126bedd8f6c80e6692221ff",
+      "doi": "10.1016/j.cell.2022.11.026",
+      "bytes": 4600521,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A transcription factor atlas of directed differentiation.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10344468/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10344468/pdf/nihms-1900584.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cell.2022.11.026",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10344468?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "493913146e287be3ce164ba39a78c45efb4b3d4911ad0d7182fc2aaa8e5c8eef",
+      "doi": "10.1016/j.cell.2023.03.035",
+      "bytes": 1447216,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Massively parallel base editing to map variant effects in human hematopoiesis.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10225359/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10225359/pdf/nihms-1892260.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cell.2023.03.035",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10225359?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "b03dfb725ff4ff37e5fe79ae4f196a8ef258ce400fa18249abd6b0e28eb7c153",
+      "doi": "10.1016/j.cell.2023.11.007",
+      "bytes": 1544257,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Systematic identification and characterization of genes in the regulation and biogenesis of photosynthetic machinery.",
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2023.11.007",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10760936.1/PMC10760936.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10760936.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10760936.1.json",
+          "access": "automatic",
+          "verified_sha256": "b03dfb725ff4ff37e5fe79ae4f196a8ef258ce400fa18249abd6b0e28eb7c153"
+        }
+      ],
+      "version": "PMC10760936.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "d838a3aeb22695ea913b4ba6b78e7cba39f1dd329eb3f64ad077d352ac9e394c",
+      "doi": "10.1016/j.cell.2024.01.027",
+      "bytes": 3994259,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Pan-cancer proteogenomics characterization of tumor immunity.",
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2024.01.027",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10988632.1/PMC10988632.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10988632.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10988632.1.json",
+          "access": "automatic",
+          "verified_sha256": "d838a3aeb22695ea913b4ba6b78e7cba39f1dd329eb3f64ad077d352ac9e394c"
+        }
+      ],
+      "version": "PMC10988632.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "7979b34d46a64f99dfd18bc9235f6a57a719b10bb9180229a7f4ccae7d33fff3",
+      "doi": "10.1016/j.cell.2024.04.015",
+      "bytes": 9259617,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Circadian tumor infiltration and function of CD8+ T\u00a0cells dictate immunotherapy efficacy.",
+      "landing_page_url": "https://doi.org/10.1016/j.cell.2024.04.015",
+      "sources": [
+        {
+          "url": "https://lirias.kuleuven.be/retrieve/2aa3a4b8-0f5f-4be9-a10c-0f907629bfe6",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cell.2024.04.015",
+          "access": "automatic",
+          "verified_sha256": "7979b34d46a64f99dfd18bc9235f6a57a719b10bb9180229a7f4ccae7d33fff3"
+        }
+      ],
+      "version": "submittedVersion",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "0d3a4a85795b378a8b793d1ab43e9e63eab24e4422d4d41ba3fd794976b0131d",
+      "doi": "10.1016/j.celrep.2022.111161",
+      "bytes": 2873456,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Prenatal environmental stressors impair postnatal microglia function and adult behavior in males.",
+      "landing_page_url": "https://doi.org/10.1016/j.celrep.2022.111161",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9438555.1/PMC9438555.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9438555.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9438555.1.json",
+          "access": "automatic",
+          "verified_sha256": "0d3a4a85795b378a8b793d1ab43e9e63eab24e4422d4d41ba3fd794976b0131d"
+        }
+      ],
+      "version": "PMC9438555.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "3101659e5c1f83e0a7e2a3c525df1f5e0ecc4f38f12cb285c0797acfda7c8357",
+      "doi": "10.1016/j.celrep.2024.113693",
+      "bytes": 2870215,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Massively parallel disruption of enhancers active in human neural stem cells.",
+      "landing_page_url": "https://doi.org/10.1016/j.celrep.2024.113693",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11078116.1/PMC11078116.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11078116.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11078116.1.json",
+          "access": "automatic",
+          "verified_sha256": "3101659e5c1f83e0a7e2a3c525df1f5e0ecc4f38f12cb285c0797acfda7c8357"
+        }
+      ],
+      "version": "PMC11078116.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "6588e2b230c9f81cb30b688b52b5e82bc80bbf0280e8545fccfaedef2fc43f40",
+      "doi": "10.1016/j.chom.2022.02.006",
+      "bytes": 2336947,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Evolutionarily conserved bacterial effectors hijack abscisic acid signaling to induce an aqueous environment in the apoplast.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9012689/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC9012689?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "fd0b4a6c5368c790c60b6a56eaf57fbde9ee1b08293db7ec2f2cd201c9bad5e5",
+      "doi": "10.1016/j.chom.2022.07.016",
+      "bytes": 4410569,
+      "splits": [
+        "train"
+      ],
+      "title": "Antibody escape and cryptic cross-domain stabilization in the SARS-CoV-2 Omicron spike protein.",
+      "landing_page_url": "https://doi.org/10.1016/j.chom.2022.07.016",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9350683.1/PMC9350683.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9350683.1",
+          "license": null,
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9350683.1.json",
+          "access": "automatic",
+          "verified_sha256": "fd0b4a6c5368c790c60b6a56eaf57fbde9ee1b08293db7ec2f2cd201c9bad5e5"
+        }
+      ],
+      "version": "PMC9350683.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "ba05c1a4e68b02d1d492c89d8cd2a32b05b640534a7908be7ac50ec4aa0f458a",
+      "doi": "10.1016/j.crmeth.2023.100464",
+      "bytes": 6393510,
+      "splits": [
+        "validation"
+      ],
+      "title": "Rapid, scalable, combinatorial genome engineering by marker-less enrichment and recombination of genetically engineered loci in yeast.",
+      "landing_page_url": "https://doi.org/10.1016/j.crmeth.2023.100464",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10261898.1/PMC10261898.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10261898.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10261898.1.json",
+          "access": "automatic",
+          "verified_sha256": "ba05c1a4e68b02d1d492c89d8cd2a32b05b640534a7908be7ac50ec4aa0f458a"
+        }
+      ],
+      "version": "PMC10261898.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "b39e006f12e209c2e161b74a7366ac39eb85c861f512795c82c1b08893e31c9a",
+      "doi": "10.1016/j.cub.2023.11.057",
+      "bytes": 5971567,
+      "splits": [
+        "train"
+      ],
+      "title": "Structures and roles of BcsD and partner scaffold proteins in proteobacterial cellulose secretion.",
+      "landing_page_url": "https://doi.org/10.1016/j.cub.2023.11.057",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/b39e006f12e209c2e161b74a7366ac39eb85c861f512795c82c1b08893e31c9a.pdf",
+          "license": "CC BY-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+          "metadata_url": "https://hal.inrae.fr/hal-04474396v1"
+        },
+        {
+          "url": "https://hal.inrae.fr/hal-04474396v1/document",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by-nd",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cub.2023.11.057",
+          "access": "browser"
+        },
+        {
+          "url": "https://hal.science/hal-04575662v1/document",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by-nd",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cub.2023.11.057",
+          "access": "browser"
+        },
+        {
+          "url": "https://hal.inrae.fr/hal-04474396/document",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by-nd",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cub.2023.11.057",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    {
+      "sha256": "a741d85ed7dd86aaa565fc2621fe6838c4dd53e0d02a592479a6ffc70978b4bf",
+      "doi": "10.1016/j.cub.2024.02.062",
+      "bytes": 6350807,
+      "splits": [
+        "train"
+      ],
+      "title": "An endogenous DNA virus in an amphibian-killing fungus associated with pathogen genotype and virulence.",
+      "landing_page_url": "https://doi.org/10.1016/j.cub.2024.02.062",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/a741d85ed7dd86aaa565fc2621fe6838c4dd53e0d02a592479a6ffc70978b4bf.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://escholarship.org/uc/item/0b0207vf"
+        },
+        {
+          "url": "https://escholarship.org/content/qt0b0207vf/qt0b0207vf.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.cub.2024.02.062",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "3c8cc77ac25e72e2d59efdac0962435d16753c609a08415a549a06710e0c90ee",
+      "doi": "10.1016/j.devcel.2023.09.005",
+      "bytes": 1796607,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Single-nucleotide variants within heart enhancers increase binding affinity and disrupt heart development.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10720985/",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/3c8cc77ac25e72e2d59efdac0962435d16753c609a08415a549a06710e0c90ee.pdf",
+          "license": "CC BY-NC",
+          "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "metadata_url": "https://escholarship.org/uc/item/3zn9x6fh"
+        },
+        {
+          "url": "https://escholarship.org/content/qt3zn9x6fh/qt3zn9x6fh.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by-nc",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.devcel.2023.09.005",
+          "access": "browser"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10720985/pdf/nihms-1941982.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "other-oa",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1016%2Fj.devcel.2023.09.005",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10720985?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "sha256": "28885469ede94cf2af8e9390319d180db4b610e1595eb0728ff0a1e9db249366",
+      "doi": "10.1016/j.immuni.2021.12.015",
+      "bytes": 3840333,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Primary germinal center-resident T follicular helper cells are a physiologically distinct subset of CXCR5<sup>hi</sup>PD-1<sup>hi</sup> T follicular helper cells.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8842852/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC8842852?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "e9f96703842f3a17bb1d967e0f14ea986ab652052272192610dee43d0887be71",
+      "doi": "10.1016/j.immuni.2022.03.018",
+      "bytes": 3670729,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Concerted type I interferon signaling in microglia and neural cells promotes memory impairment associated with amyloid \u03b2 plaques.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9109419/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC9109419?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "d961c2b739e09906b8502fb2d8b0f0d02f7d0f029184472c13f05e57726bf841",
+      "doi": "10.1016/j.isci.2023.106308",
+      "bytes": 5128755,
+      "splits": [
+        "train"
+      ],
+      "title": "Phenotypic dimorphism between honeybee queen and worker is regulated by complicated epigenetic modifications.",
+      "landing_page_url": "https://doi.org/10.1016/j.isci.2023.106308",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10024153.1/PMC10024153.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10024153.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10024153.1.json",
+          "access": "automatic",
+          "verified_sha256": "d961c2b739e09906b8502fb2d8b0f0d02f7d0f029184472c13f05e57726bf841"
+        }
+      ],
+      "version": "PMC10024153.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "9d2849bae92ff8443563db302563b5f69fa3e1292c99ae0a1dc19b0cb78894ba",
+      "doi": "10.1016/j.jbior.2020.100740",
+      "bytes": 1549909,
+      "splits": [
+        "validation"
+      ],
+      "title": "Lipid transfer proteins and instructive regulation of lipid kinase activities: Implications for inositol lipid signaling and disease.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7986245/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC7986245?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "69fb68d8a2b985f6546fabaea44041f69b8083bf1f2a84e5d38e6c9d7e16785d",
+      "doi": "10.1016/j.neuron.2021.10.032",
+      "bytes": 3014930,
+      "splits": [
+        "train"
+      ],
+      "title": "Rescue of \u03b1-synuclein aggregation in Parkinson's patient neurons by synergistic enhancement of ER proteostasis and protein trafficking.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8815333/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC8815333?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "fec568e118aefd9b5ca9c5adeb678900e7c96477ee08d9b3c5a66f7c29cffb47",
+      "doi": "10.1016/j.neuron.2021.10.036",
+      "bytes": 4735440,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Transcriptomic taxonomy and neurogenic trajectories of adult human, macaque, and pig hippocampal and entorhinal cells.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8813897/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC8813897?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "0fe5bb6df0baa1fcb153cb554a2a3eb1efefabea432a7a9eab3d8ef29d0f5976",
+      "doi": "10.1016/j.neuron.2024.03.007",
+      "bytes": 6081967,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Astrocyte-secreted neurocan controls inhibitory synapse formation and function.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11098688/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC11098688?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "e6dccdbe10bc934e9c6d2d66e2b2114cc3460ebb73dd0894801714a8f10f4880",
+      "doi": "10.1016/j.stem.2021.12.011",
+      "bytes": 4147384,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Multi-omic analysis reveals divergent molecular events in scarring and regenerative wound healing.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8988390/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC8988390?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "bb0c2c79af690129b3cb83f33123e5b3499f15f25edf6d05aa0e0c04d6792b0f",
+      "doi": "10.1021/acs.jctc.2c00401",
+      "bytes": 1663489,
+      "splits": [
+        "train"
+      ],
+      "title": "Symmetric Molecular Dynamics.",
+      "landing_page_url": "https://doi.org/10.1021/acs.jctc.2c00401",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9281392.1/PMC9281392.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9281392.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9281392.1.json",
+          "access": "automatic",
+          "verified_sha256": "bb0c2c79af690129b3cb83f33123e5b3499f15f25edf6d05aa0e0c04d6792b0f"
+        }
+      ],
+      "version": "PMC9281392.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "25987f265ab0a9e975b41197ba66ba541d57f7fbdfb340f5740cd5d94dd8f9b2",
+      "doi": "10.1021/acschembio.3c00138",
+      "bytes": 1153728,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Controlled Protein Activities with Viral Proteases, Antiviral Peptides, and Antiviral Drugs.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10501127/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10501127/pdf/nihms-1927663.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1021%2Facschembio.3c00138",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10501127?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "3008c492a105e13acd5202f9c4e8da0180a5ee1ef654b6a40a41f451e16e6d1b",
+      "doi": "10.1038/s12276-023-01094-x",
+      "bytes": 1877837,
+      "splits": [
+        "train"
+      ],
+      "title": "Phosphocode-dependent glutamyl-prolyl-tRNA synthetase 1 signaling in immunity, metabolism, and disease.",
+      "landing_page_url": "https://doi.org/10.1038/s12276-023-01094-x",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10618286.1/PMC10618286.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10618286.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10618286.1.json",
+          "access": "automatic",
+          "verified_sha256": "3008c492a105e13acd5202f9c4e8da0180a5ee1ef654b6a40a41f451e16e6d1b"
+        }
+      ],
+      "version": "PMC10618286.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "02bbb79f5056a2e22dcc5b5b9ab38ed96725ca9f1190ada3c7a0f772ae39534d",
+      "doi": "10.1038/s41467-022-30570-7",
+      "bytes": 2049411,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Functional expression of opioid receptors and other human GPCRs in yeast engineered to produce human sterols.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-022-30570-7",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9130329.1/PMC9130329.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9130329.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9130329.1.json",
+          "access": "automatic",
+          "verified_sha256": "02bbb79f5056a2e22dcc5b5b9ab38ed96725ca9f1190ada3c7a0f772ae39534d"
+        }
+      ],
+      "version": "PMC9130329.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "1feb8376928f0b3d3d135365ba4c99e4c67ea14f634201998bce80a6a1de003d",
+      "doi": "10.1038/s41467-023-36334-1",
+      "bytes": 7078805,
+      "splits": [
+        "validation"
+      ],
+      "title": "Long-term platinum-based drug accumulation in cancer-associated fibroblasts promotes colorectal cancer progression and resistance to therapy.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-36334-1",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9918738.1/PMC9918738.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9918738.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9918738.1.json",
+          "access": "automatic",
+          "verified_sha256": "1feb8376928f0b3d3d135365ba4c99e4c67ea14f634201998bce80a6a1de003d"
+        }
+      ],
+      "version": "PMC9918738.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "9d104250b64874154a7b208e42b299e3abfd5d9787b5d5b6395fdb5eced70d19",
+      "doi": "10.1038/s41467-023-39119-8",
+      "bytes": 3803460,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Structural insights into Siglec-15 reveal glycosylation dependency for its interaction with T cells through integrin CD11b.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-39119-8",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10264397.1/PMC10264397.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10264397.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10264397.1.json",
+          "access": "automatic",
+          "verified_sha256": "9d104250b64874154a7b208e42b299e3abfd5d9787b5d5b6395fdb5eced70d19"
+        }
+      ],
+      "version": "PMC10264397.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "9d83dcd0b26995a9e74645e95f404afbdbd9c32f48ecf649608eb0bba1b7c6ed",
+      "doi": "10.1038/s41467-023-39770-1",
+      "bytes": 4867646,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Lymph node targeted multi-epitope subunit vaccine promotes effective immunity to EBV in HLA-expressing mice.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-39770-1",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10409721.1/PMC10409721.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10409721.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10409721.1.json",
+          "access": "automatic",
+          "verified_sha256": "9d83dcd0b26995a9e74645e95f404afbdbd9c32f48ecf649608eb0bba1b7c6ed"
+        }
+      ],
+      "version": "PMC10409721.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "202dbbbbdbb7bda745406e2b317b8fb58c8cc0081adb859c14721c5b7c656544",
+      "doi": "10.1038/s41467-023-40041-2",
+      "bytes": 4352948,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Structures of channelrhodopsin paralogs in peptidiscs explain their contrasting K+ and Na+ selectivities.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-40041-2",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10359266.1/PMC10359266.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10359266.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10359266.1.json",
+          "access": "automatic",
+          "verified_sha256": "202dbbbbdbb7bda745406e2b317b8fb58c8cc0081adb859c14721c5b7c656544"
+        }
+      ],
+      "version": "PMC10359266.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "ed49ee6ff38b8c10bd50b59af5b753d0ebccd6ca159edc8e81d8c20beb2f4eac",
+      "doi": "10.1038/s41467-023-40173-5",
+      "bytes": 11404221,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Guided construction of single cell reference for human and mouse lung.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-40173-5",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10387117.1/PMC10387117.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10387117.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10387117.1.json",
+          "access": "automatic",
+          "verified_sha256": "ed49ee6ff38b8c10bd50b59af5b753d0ebccd6ca159edc8e81d8c20beb2f4eac"
+        }
+      ],
+      "version": "PMC10387117.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "36c60054846e033e1f8f18f04dcd8527264bc37bc975a685db420dbb84beeecf",
+      "doi": "10.1038/s41467-023-40886-7",
+      "bytes": 2903802,
+      "splits": [
+        "validation"
+      ],
+      "title": "Metabolic glycan labeling immobilizes dendritic cell membrane and enhances antitumor efficacy of dendritic cell vaccine.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-40886-7",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10439884.1/PMC10439884.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10439884.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10439884.1.json",
+          "access": "automatic",
+          "verified_sha256": "36c60054846e033e1f8f18f04dcd8527264bc37bc975a685db420dbb84beeecf"
+        }
+      ],
+      "version": "PMC10439884.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "7928fced9b05fa19c5bbb77ebe184db96f3b6465fa4ace910a59cfceedda8d79",
+      "doi": "10.1038/s41467-023-41066-3",
+      "bytes": 5723826,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Fasting mimicking diet in mice delays cancer growth and reduces immunotherapy-associated cardiovascular and systemic side effects.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-41066-3",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10491752.1/PMC10491752.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10491752.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10491752.1.json",
+          "access": "automatic",
+          "verified_sha256": "7928fced9b05fa19c5bbb77ebe184db96f3b6465fa4ace910a59cfceedda8d79"
+        }
+      ],
+      "version": "PMC10491752.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "b5e5878bcfa1ee69ffd26fa807564521c8d05203f3bff8d2a38320f7983ff530",
+      "doi": "10.1038/s41467-023-41318-2",
+      "bytes": 8666860,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Single-cell transcriptome analysis indicates fatty acid metabolism-mediated metastasis and immunosuppression in male breast cancer.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-41318-2",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10495415.1/PMC10495415.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10495415.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10495415.1.json",
+          "access": "automatic",
+          "verified_sha256": "b5e5878bcfa1ee69ffd26fa807564521c8d05203f3bff8d2a38320f7983ff530"
+        }
+      ],
+      "version": "PMC10495415.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "c6c89512c880a35911b42ec18a437ffb9048c73522b35df7ebadc47b0727a6f0",
+      "doi": "10.1038/s41467-023-42823-0",
+      "bytes": 10569492,
+      "splits": [
+        "train"
+      ],
+      "title": "Structures of the DarR transcription regulator reveal unique modes of second messenger and DNA binding.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-42823-0",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10636190.1/PMC10636190.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10636190.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10636190.1.json",
+          "access": "automatic",
+          "verified_sha256": "c6c89512c880a35911b42ec18a437ffb9048c73522b35df7ebadc47b0727a6f0"
+        }
+      ],
+      "version": "PMC10636190.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "f83867bf093e35ea893208430bc8972644b8750146f065c2f5a564cc227de85c",
+      "doi": "10.1038/s41467-023-44148-4",
+      "bytes": 2488528,
+      "splits": [
+        "validation"
+      ],
+      "title": "Autoregulation of the LIM kinases by their PDZ domain.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-023-44148-4",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10730565.1/PMC10730565.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10730565.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10730565.1.json",
+          "access": "automatic",
+          "verified_sha256": "f83867bf093e35ea893208430bc8972644b8750146f065c2f5a564cc227de85c"
+        }
+      ],
+      "version": "PMC10730565.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "903142c2c9ddca044d87f329ca8aa0d80b827797ad56cd5e664d079b303b39cf",
+      "doi": "10.1038/s41467-024-44806-1",
+      "bytes": 1025828,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Evolution of optimal growth temperature in Asgard archaea inferred from the temperature dependence of GDP binding to EF-1A.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-024-44806-1",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10789797.1/PMC10789797.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10789797.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10789797.1.json",
+          "access": "automatic",
+          "verified_sha256": "903142c2c9ddca044d87f329ca8aa0d80b827797ad56cd5e664d079b303b39cf"
+        }
+      ],
+      "version": "PMC10789797.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "5db8a7b0203ea6952de1b43ace5acc5484ca3f7bb11e8fb173a751f448a401e3",
+      "doi": "10.1038/s41467-024-46676-z",
+      "bytes": 3149683,
+      "splits": [
+        "validation"
+      ],
+      "title": "The spliceosome-associated protein CWC15 promotes miRNA biogenesis in Arabidopsis.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-024-46676-z",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10944506.1/PMC10944506.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10944506.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10944506.1.json",
+          "access": "automatic",
+          "verified_sha256": "5db8a7b0203ea6952de1b43ace5acc5484ca3f7bb11e8fb173a751f448a401e3"
+        }
+      ],
+      "version": "PMC10944506.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "675be55ae9a964fa00511348d7357ff00a81a80b851a4cd944d315152968af6a",
+      "doi": "10.1038/s41467-024-47207-6",
+      "bytes": 2475984,
+      "splits": [
+        "train"
+      ],
+      "title": "Cryo-EM structures of adenosine receptor A3AR bound to selective agonists.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-024-47207-6",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11021478.1/PMC11021478.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11021478.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11021478.1.json",
+          "access": "automatic",
+          "verified_sha256": "675be55ae9a964fa00511348d7357ff00a81a80b851a4cd944d315152968af6a"
+        }
+      ],
+      "version": "PMC11021478.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "b44513061294a51ebea88153cbce3d6df1b39fdfb2ad6696c0389ebde571cdad",
+      "doi": "10.1038/s41467-024-47449-4",
+      "bytes": 4699061,
+      "splits": [
+        "train"
+      ],
+      "title": "Regulation by the RNA-binding protein Unkempt at its effector interface.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-024-47449-4",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11009413.1/PMC11009413.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11009413.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11009413.1.json",
+          "access": "automatic",
+          "verified_sha256": "b44513061294a51ebea88153cbce3d6df1b39fdfb2ad6696c0389ebde571cdad"
+        }
+      ],
+      "version": "PMC11009413.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "731d4d10d5e4865330d276c8fc974e530f42e9193c0ad48d15f349c83659d17e",
+      "doi": "10.1038/s41467-024-48375-1",
+      "bytes": 2016435,
+      "splits": [
+        "train"
+      ],
+      "title": "Cingulate microstimulation induces negative decision-making via reduced top-down influence on primate fronto-cingulo-striatal network.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-024-48375-1",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11101474.1/PMC11101474.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11101474.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11101474.1.json",
+          "access": "automatic",
+          "verified_sha256": "731d4d10d5e4865330d276c8fc974e530f42e9193c0ad48d15f349c83659d17e"
+        }
+      ],
+      "version": "PMC11101474.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "79dfc9994ca1607e1cc18e3b46413a2d8985739bc8e5e0dee1bed77025da3740",
+      "doi": "10.1038/s41467-024-48588-4",
+      "bytes": 7840330,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Mycobacterium tuberculosis suppresses host antimicrobial peptides by dehydrogenating L-alanine.",
+      "landing_page_url": "https://doi.org/10.1038/s41467-024-48588-4",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11101664.1/PMC11101664.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11101664.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11101664.1.json",
+          "access": "automatic",
+          "verified_sha256": "79dfc9994ca1607e1cc18e3b46413a2d8985739bc8e5e0dee1bed77025da3740"
+        }
+      ],
+      "version": "PMC11101664.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "d181fbe5daea7ffd039ec811af2e826b54bd46429d1d19f430bd4a8c6fe7785e",
+      "doi": "10.1038/s41586-019-1506-7",
+      "bytes": 8126311,
+      "splits": [
+        "validation"
+      ],
+      "title": "Conserved cell types with divergent features in human versus mouse cortex.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-019-1506-7",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6919571.1/PMC6919571.1.pdf",
+          "provider": "PMC",
+          "version": "PMC6919571.1",
+          "license": "TDM",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC6919571.1.json",
+          "access": "automatic",
+          "verified_sha256": "d181fbe5daea7ffd039ec811af2e826b54bd46429d1d19f430bd4a8c6fe7785e"
+        }
+      ],
+      "version": "PMC6919571.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "5393792c61df3db1a6665d92a40b3c88c3612a7c80d1106a418344bc71b974f4",
+      "doi": "10.1038/s41586-022-04570-y",
+      "bytes": 6401664,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Nonlinear control of transcription through enhancer-promoter interactions.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-022-04570-y",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9021019.1/PMC9021019.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9021019.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9021019.1.json",
+          "access": "automatic",
+          "verified_sha256": "5393792c61df3db1a6665d92a40b3c88c3612a7c80d1106a418344bc71b974f4"
+        }
+      ],
+      "version": "PMC9021019.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "3098e2d8595bda7bfe75e4bf487d0078a944a47390003f908444315392105f15",
+      "doi": "10.1038/s41586-022-04877-w",
+      "bytes": 5584999,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Compatibility rules of human enhancer and promoter sequences.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9262863/",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/3098e2d8595bda7bfe75e4bf487d0078a944a47390003f908444315392105f15.pdf",
+          "license": "CC BY-NC-SA",
+          "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "metadata_url": "https://dspace.mit.edu/entities/publication/03168a5a-9206-4cf1-af43-0b363a5c0cfc"
+        },
+        {
+          "url": "https://dspace.mit.edu/bitstream/1721.1/147044/2/nihms-1816171.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by-nc-sa",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1038%2Fs41586-022-04877-w",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC9262863?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "sha256": "514e4135b87cc55f3fb760e2d696cc60b0467fb7bb46515f4934cd32d7c1f524",
+      "doi": "10.1038/s41586-022-05041-0",
+      "bytes": 29900215,
+      "splits": [
+        "train"
+      ],
+      "title": "Apoptotic brown adipocytes enhance energy expenditure via extracellular inosine.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-022-05041-0",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9452294.1/PMC9452294.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9452294.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9452294.1.json",
+          "access": "automatic",
+          "verified_sha256": "514e4135b87cc55f3fb760e2d696cc60b0467fb7bb46515f4934cd32d7c1f524"
+        }
+      ],
+      "version": "PMC9452294.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "38a7f89313314d46b5a6e860ee521711f273a28a26575effba0c567812a8d79d",
+      "doi": "10.1038/s41586-022-05256-1",
+      "bytes": 11400990,
+      "splits": [
+        "validation"
+      ],
+      "title": "Borgs are giant genetic elements with potential to expand metabolic capacity.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-022-05256-1",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9605863.1/PMC9605863.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9605863.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9605863.1.json",
+          "access": "automatic",
+          "verified_sha256": "38a7f89313314d46b5a6e860ee521711f273a28a26575effba0c567812a8d79d"
+        }
+      ],
+      "version": "PMC9605863.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "684e1d8a26f871d22587bdfaad90469549c4de96983dc39669c5de0fd8e30c28",
+      "doi": "10.1038/s41586-022-05570-8",
+      "bytes": 6177038,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Cryo-EM structures of the active NLRP3 inflammasome disc.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10091861/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10091861/pdf/nihms-1879963.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1038%2Fs41586-022-05570-8",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10091861?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "7e168f2e45ad4509e66c82f919390597af955d6f84abe9dbaf3e74886ae36bfa",
+      "doi": "10.1038/s41586-023-05906-y",
+      "bytes": 5723716,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Large-scale mapping and mutagenesis of human transcriptional effector domains.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10484233/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10484233/pdf/nihms-1912917.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1038%2Fs41586-023-05906-y",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10484233?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "f334e23d47bfa89ad39e52c9d53bb43416d3aba8251e7faf2b5f93154f0d9690",
+      "doi": "10.1038/s41586-023-06123-3",
+      "bytes": 21692993,
+      "splits": [
+        "train"
+      ],
+      "title": "Pan-KRAS inhibitor disables oncogenic signalling and tumour growth.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06123-3",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10322706.1/PMC10322706.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10322706.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10322706.1.json",
+          "access": "automatic",
+          "verified_sha256": "f334e23d47bfa89ad39e52c9d53bb43416d3aba8251e7faf2b5f93154f0d9690"
+        }
+      ],
+      "version": "PMC10322706.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "0f5f8dde81269db8b6ce534b31815091814c8c8c1d4a86d1e1e93930ef55c431",
+      "doi": "10.1038/s41586-023-06728-8",
+      "bytes": 8449404,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Illuminating protein space with a programmable generative model.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06728-8",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10686827.1/PMC10686827.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10686827.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10686827.1.json",
+          "access": "automatic",
+          "verified_sha256": "0f5f8dde81269db8b6ce534b31815091814c8c8c1d4a86d1e1e93930ef55c431"
+        }
+      ],
+      "version": "PMC10686827.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "b1513bb8fd6dd85cbccc2f6c759e3ebbca5c69aee476284dfa6b3ae6c1491171",
+      "doi": "10.1038/s41586-023-06793-z",
+      "bytes": 16550245,
+      "splits": [
+        "train"
+      ],
+      "title": "FOXP3 recognizes microsatellites and bridges DNA through multimerization.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06793-z",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10719092.1/PMC10719092.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10719092.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10719092.1.json",
+          "access": "automatic",
+          "verified_sha256": "b1513bb8fd6dd85cbccc2f6c759e3ebbca5c69aee476284dfa6b3ae6c1491171"
+        }
+      ],
+      "version": "PMC10719092.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "553b632a36a78428b152403c6cdd3346d3ef59d53a0d698f1c2bb5858fed8028",
+      "doi": "10.1038/s41586-023-06845-4",
+      "bytes": 14691009,
+      "splits": [
+        "validation"
+      ],
+      "title": "RNA-mediated symmetry breaking enables singular olfactory receptor choice.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06845-4",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10765522.1/PMC10765522.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10765522.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10765522.1.json",
+          "access": "automatic",
+          "verified_sha256": "553b632a36a78428b152403c6cdd3346d3ef59d53a0d698f1c2bb5858fed8028"
+        }
+      ],
+      "version": "PMC10765522.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "3849489512b0951edb39b5a8c5104903e80992699c8089057f5f2f136a46f6ce",
+      "doi": "10.1038/s41586-023-06850-7",
+      "bytes": 58209502,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Cytoneme-mediated transport of active Wnt5b-Ror2 complexes in zebrafish.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06850-7",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10764289.1/PMC10764289.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10764289.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10764289.1.json",
+          "access": "automatic",
+          "verified_sha256": "3849489512b0951edb39b5a8c5104903e80992699c8089057f5f2f136a46f6ce"
+        }
+      ],
+      "version": "PMC10764289.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "77054d1f4052401841d28fe4697a7c7457af15e72267e2499255492cb8539d3f",
+      "doi": "10.1038/s41586-023-06877-w",
+      "bytes": 62451023,
+      "splits": [
+        "train"
+      ],
+      "title": "Temporal dynamics of the multi-omic response to endurance exercise training.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06877-w",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11062907.1/PMC11062907.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11062907.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11062907.1.json",
+          "access": "automatic",
+          "verified_sha256": "77054d1f4052401841d28fe4697a7c7457af15e72267e2499255492cb8539d3f"
+        }
+      ],
+      "version": "PMC11062907.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "d5435af1e8717b396760bc852ac0846d90332f091108ef4664aa7c361970e911",
+      "doi": "10.1038/s41586-023-06922-8",
+      "bytes": 9521577,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Affinity-optimizing enhancer variants disrupt development.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-023-06922-8",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10830414.1/PMC10830414.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10830414.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10830414.1.json",
+          "access": "automatic",
+          "verified_sha256": "d5435af1e8717b396760bc852ac0846d90332f091108ef4664aa7c361970e911"
+        }
+      ],
+      "version": "PMC10830414.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "c38b8d496f782b16e85efe3b54aa5bcd7e8b3a53f7cf3c898dfbbfcaedaf3b6b",
+      "doi": "10.1038/s41586-024-07260-z",
+      "bytes": 26575986,
+      "splits": [
+        "validation"
+      ],
+      "title": "Ancestral allele of DNA polymerase gamma modifies antiviral tolerance.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07260-z",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11041766.1/PMC11041766.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11041766.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11041766.1.json",
+          "access": "automatic",
+          "verified_sha256": "c38b8d496f782b16e85efe3b54aa5bcd7e8b3a53f7cf3c898dfbbfcaedaf3b6b"
+        }
+      ],
+      "version": "PMC11041766.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "d2017c8c33487b3df190a29d62ba2bcffeb78c940a8e8d74bcc6328dd49193cd",
+      "doi": "10.1038/s41586-024-07283-6",
+      "bytes": 82737341,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A brain-specific angiogenic mechanism enabled by tip\u00a0cell specialization.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07283-6",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11041701.1/PMC11041701.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11041701.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11041701.1.json",
+          "access": "automatic",
+          "verified_sha256": "d2017c8c33487b3df190a29d62ba2bcffeb78c940a8e8d74bcc6328dd49193cd"
+        }
+      ],
+      "version": "PMC11041701.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "2f967140f5d4aa7d3bebefda2f7fbf6c94fd2e7985956e3479b95551ecc5b1d6",
+      "doi": "10.1038/s41586-024-07298-z",
+      "bytes": 12921058,
+      "splits": [
+        "train"
+      ],
+      "title": "Streptomyces umbrella toxin particles block hyphal growth of competing species.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07298-z",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11062931.1/PMC11062931.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11062931.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11062931.1.json",
+          "access": "automatic",
+          "verified_sha256": "2f967140f5d4aa7d3bebefda2f7fbf6c94fd2e7985956e3479b95551ecc5b1d6"
+        }
+      ],
+      "version": "PMC11062931.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "850e00fc83125f26b1928bda77362bee3132df3daa883a7caefa08b2c5e2e555",
+      "doi": "10.1038/s41586-024-07317-z",
+      "bytes": 14155105,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Control of neuronal excitation-inhibition balance by BMP-SMAD1 signalling.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07317-z",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11078759.1/PMC11078759.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11078759.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11078759.1.json",
+          "access": "automatic",
+          "verified_sha256": "850e00fc83125f26b1928bda77362bee3132df3daa883a7caefa08b2c5e2e555"
+        }
+      ],
+      "version": "PMC11078759.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "9a7975aa2e61496fab4d290decae47286d1a02deca85d72bc53a01a81fb1c402",
+      "doi": "10.1038/s41586-024-07345-9",
+      "bytes": 20666537,
+      "splits": [
+        "train"
+      ],
+      "title": "Complete biosynthesis of QS-21 in engineered yeast.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07345-9",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11111400.1/PMC11111400.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11111400.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11111400.1.json",
+          "access": "automatic",
+          "verified_sha256": "9a7975aa2e61496fab4d290decae47286d1a02deca85d72bc53a01a81fb1c402"
+        }
+      ],
+      "version": "PMC11111400.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "5f6af1d3d575b5d42fad7ca9b9cb6442a3aa8ce938c41308ab59e5da35cdef59",
+      "doi": "10.1038/s41586-024-07348-6",
+      "bytes": 63207993,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Multimodal cell atlas of the ageing human skeletal muscle.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07348-6",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11062927.1/PMC11062927.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11062927.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11062927.1.json",
+          "access": "automatic",
+          "verified_sha256": "5f6af1d3d575b5d42fad7ca9b9cb6442a3aa8ce938c41308ab59e5da35cdef59"
+        }
+      ],
+      "version": "PMC11062927.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "34fbd4ca236df542ab600e9eedc2abf73d478151951161487d68bc71355d5767",
+      "doi": "10.1038/s41586-024-07385-1",
+      "bytes": 9456739,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Computationally restoring the potency of a clinical antibody against Omicron.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07385-1",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11111397.1/PMC11111397.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11111397.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11111397.1.json",
+          "access": "automatic",
+          "verified_sha256": "34fbd4ca236df542ab600e9eedc2abf73d478151951161487d68bc71355d5767"
+        }
+      ],
+      "version": "PMC11111397.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "74d7d1112351176e4256d2afba416060038e3a6800651a08f2014baea3c9f674",
+      "doi": "10.1038/s41586-024-07419-8",
+      "bytes": 33193304,
+      "splits": [
+        "validation"
+      ],
+      "title": "GLP-1-directed NMDA receptor antagonism for obesity treatment.",
+      "landing_page_url": "https://doi.org/10.1038/s41586-024-07419-8",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11136670.1/PMC11136670.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11136670.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11136670.1.json",
+          "access": "automatic",
+          "verified_sha256": "74d7d1112351176e4256d2afba416060038e3a6800651a08f2014baea3c9f674"
+        }
+      ],
+      "version": "PMC11136670.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "141ec0e3d6224d53a1e464cc69f70e4419dbfb21e059db882285637f0bb3957f",
+      "doi": "10.1038/s41587-022-01494-w",
+      "bytes": 6768197,
+      "splits": [
+        "train"
+      ],
+      "title": "Systematic discovery of recombinases for efficient integration of large DNA sequences into the human genome.",
+      "landing_page_url": "https://doi.org/10.1038/s41587-022-01494-w",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10083194.2/PMC10083194.2.pdf",
+          "provider": "PMC",
+          "version": "PMC10083194.2",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10083194.2.json",
+          "access": "automatic",
+          "verified_sha256": "141ec0e3d6224d53a1e464cc69f70e4419dbfb21e059db882285637f0bb3957f"
+        }
+      ],
+      "version": "PMC10083194.2",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "f46e1738b78180e804d511e022d9e2fdb6b1d0df804b8a48a4a2d49ccbd6c752",
+      "doi": "10.1038/s41587-023-01759-y",
+      "bytes": 4292204,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Engineered phage with antibacterial CRISPR-Cas selectively reduce E. coli burden in mice.",
+      "landing_page_url": "https://doi.org/10.1038/s41587-023-01759-y",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10869271.1/PMC10869271.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10869271.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10869271.1.json",
+          "access": "automatic",
+          "verified_sha256": "f46e1738b78180e804d511e022d9e2fdb6b1d0df804b8a48a4a2d49ccbd6c752"
+        }
+      ],
+      "version": "PMC10869271.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "32cfc97421c933ef37186cb4fa9485a7f3b3ae8a5301d6208d86436c1b718226",
+      "doi": "10.1038/s41587-023-01801-z",
+      "bytes": 3383152,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Spatial imaging of glycoRNA in single cells with ARPLA.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10663388/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10663388/pdf/nihms-1914433.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1038%2Fs41587-023-01801-z",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10663388?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "e46ef6f549286b8863366558904ced0ea97a0557ad264048d68230356a7a34d0",
+      "doi": "10.1038/s41587-024-02157-8",
+      "bytes": 9487160,
+      "splits": [
+        "validation"
+      ],
+      "title": "Morphological diversification and functional maturation of human astrocytes in glia-enriched cortical organoid transplanted in mouse brain.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11349933/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11349933/pdf/nihms-1981667.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1038%2Fs41587-024-02157-8",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC11349933?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "b0a29e9cec2cc0803b22df0e95f68019c28a1a045c86f22be4c1b584622a1b98",
+      "doi": "10.1038/s41588-022-01241-6",
+      "bytes": 23799911,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Evidence that direct inhibition of transcription factor binding is the prevailing mode of gene and repeat repression by DNA methylation.",
+      "landing_page_url": "https://doi.org/10.1038/s41588-022-01241-6",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9729108.1/PMC9729108.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9729108.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9729108.1.json",
+          "access": "automatic",
+          "verified_sha256": "b0a29e9cec2cc0803b22df0e95f68019c28a1a045c86f22be4c1b584622a1b98"
+        }
+      ],
+      "version": "PMC9729108.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "caaa863d0fcea1e59318aadb12a956d90f48416ce2020637316c590e4838bef3",
+      "doi": "10.1038/s41589-022-01218-w",
+      "bytes": 9714284,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Targeted degradation via direct 26S proteasome recruitment.",
+      "landing_page_url": "https://doi.org/10.1038/s41589-022-01218-w",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9797404.1/PMC9797404.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9797404.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9797404.1.json",
+          "access": "automatic",
+          "verified_sha256": "caaa863d0fcea1e59318aadb12a956d90f48416ce2020637316c590e4838bef3"
+        }
+      ],
+      "version": "PMC9797404.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "7fb87fac2d6630d41c4b11735b117c39b261d79ab39acdb792ba8e2677f13767",
+      "doi": "10.1038/s41592-024-02216-7",
+      "bytes": 24278427,
+      "splits": [
+        "validation"
+      ],
+      "title": "Multicenter integrated analysis of noncoding CRISPRi screens.",
+      "landing_page_url": "https://doi.org/10.1038/s41592-024-02216-7",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11009116.1/PMC11009116.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11009116.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11009116.1.json",
+          "access": "automatic",
+          "verified_sha256": "7fb87fac2d6630d41c4b11735b117c39b261d79ab39acdb792ba8e2677f13767"
+        }
+      ],
+      "version": "PMC11009116.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "ff2c7d151a60450e2ef48236a63116270c79574122cdd2d23e121b7b6eabdd6d",
+      "doi": "10.1038/s44319-023-00030-4",
+      "bytes": 2639033,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "LncRNA DANA1 promotes drought tolerance and histone deacetylation of drought responsive genes in Arabidopsis.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10897447/",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/ff2c7d151a60450e2ef48236a63116270c79574122cdd2d23e121b7b6eabdd6d.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10897447.1.json"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10897447/pdf/44319_2023_Article_30.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1038%2Fs44319-023-00030-4",
+          "access": "browser"
+        },
+        {
+          "url": "https://ri.conicet.gov.ar/bitstream/11336/265614/2/CONICET_Digital_Nro.476b50d1-70ee-4eaa-af74-0f5786bb26b0_B.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1038%2Fs44319-023-00030-4",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC10897447?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "979a269a5c62bce1a4da1c3eb54fc5571d8421a19beaa2b2f845f0f37072ff79",
+      "doi": "10.1038/s44320-024-00013-0",
+      "bytes": 4076469,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A ubiquitous GC content signature underlies multimodal mRNA regulation by DDX3X.",
+      "landing_page_url": "https://doi.org/10.1038/s44320-024-00013-0",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10912769.1/PMC10912769.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10912769.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10912769.1.json",
+          "access": "automatic",
+          "verified_sha256": "979a269a5c62bce1a4da1c3eb54fc5571d8421a19beaa2b2f845f0f37072ff79"
+        }
+      ],
+      "version": "PMC10912769.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "061f3e0f6162f0cbcbb7840a2c211d53f4acc8bbddecb16c41fbeca86a7f22e2",
+      "doi": "10.1038/s44320-024-00015-y",
+      "bytes": 4382720,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Systematic identification of 20S proteasome substrates.",
+      "landing_page_url": "https://doi.org/10.1038/s44320-024-00015-y",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10987551.1/PMC10987551.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10987551.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10987551.1.json",
+          "access": "automatic",
+          "verified_sha256": "061f3e0f6162f0cbcbb7840a2c211d53f4acc8bbddecb16c41fbeca86a7f22e2"
+        }
+      ],
+      "version": "PMC10987551.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "15748f570f7b5e3a7d0dcb1b966a988a21a5ff6e2277dc8fbdb1a9d2e35efd7f",
+      "doi": "10.1039/d1sc05088e",
+      "bytes": 674930,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Generation of bright monomeric red fluorescent proteins via computational design of enhanced chromophore packing.",
+      "landing_page_url": "https://doi.org/10.1039/d1sc05088e",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8809391.1/PMC8809391.1.pdf",
+          "provider": "PMC",
+          "version": "PMC8809391.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC8809391.1.json",
+          "access": "automatic",
+          "verified_sha256": "15748f570f7b5e3a7d0dcb1b966a988a21a5ff6e2277dc8fbdb1a9d2e35efd7f"
+        }
+      ],
+      "version": "PMC8809391.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "a2a40b50785b6bf50f58ec5ffc03e4e54247f483154ae94001f8cee91b358d9f",
+      "doi": "10.1073/pnas.0403760101",
+      "bytes": 404097,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A family of Acrp30/adiponectin structural and functional paralogs.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC478567/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC478567?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "4297b383c616d000858b5dfa189acb752a1741b88f659b186342435243eb4601",
+      "doi": "10.1073/pnas.2220578120",
+      "bytes": 2702245,
+      "splits": [
+        "train"
+      ],
+      "title": "Cryo-EM structure of human voltage-gated sodium channel Nav1.6.",
+      "landing_page_url": "https://doi.org/10.1073/pnas.2220578120",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9945969.1/PMC9945969.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9945969.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9945969.1.json",
+          "access": "automatic",
+          "verified_sha256": "4297b383c616d000858b5dfa189acb752a1741b88f659b186342435243eb4601"
+        }
+      ],
+      "version": "PMC9945969.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "c8d9416c74d06775836c49df079aebc468f8ee50e09dddac01013b03f7efb33a",
+      "doi": "10.1073/pnas.2309656121",
+      "bytes": 12770789,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Disruption of <i>Cdh23</i> exon 68 splicing leads to progressive hearing loss in mice by affecting tip-link stability.",
+      "landing_page_url": "https://doi.org/10.1073/pnas.2309656121",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10927504.1/PMC10927504.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10927504.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10927504.1.json",
+          "access": "automatic",
+          "verified_sha256": "c8d9416c74d06775836c49df079aebc468f8ee50e09dddac01013b03f7efb33a"
+        }
+      ],
+      "version": "PMC10927504.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "b79a576d7fbd8fb90a5d9205cb9267c05b6cd2300bbc20be03deb6de33a6dac9",
+      "doi": "10.1073/pnas.2317878121",
+      "bytes": 20192198,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Unifying fluidic excretion across life from cicadas to elephants.",
+      "landing_page_url": "https://doi.org/10.1073/pnas.2317878121",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10990113.1/PMC10990113.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10990113.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10990113.1.json",
+          "access": "automatic",
+          "verified_sha256": "b79a576d7fbd8fb90a5d9205cb9267c05b6cd2300bbc20be03deb6de33a6dac9"
+        }
+      ],
+      "version": "PMC10990113.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "71ac1f114042aab789a1814746079aa98bb7aeadfd8c48f7938bc4d2f2399571",
+      "doi": "10.1073/pnas.2319641121",
+      "bytes": 7597448,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A vasopressin circuit that modulates mouse social investigation and anxiety-like behavior in a sex-specific manner.",
+      "landing_page_url": "https://doi.org/10.1073/pnas.2319641121",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11098102.1/PMC11098102.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11098102.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11098102.1.json",
+          "access": "automatic",
+          "verified_sha256": "71ac1f114042aab789a1814746079aa98bb7aeadfd8c48f7938bc4d2f2399571"
+        }
+      ],
+      "version": "PMC11098102.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "8b0b5a88e3806ea0f54077004d2008882779f4e0a5a856f5344d51b800383b8b",
+      "doi": "10.1073/pnas.2320421121",
+      "bytes": 4462735,
+      "splits": [
+        "train"
+      ],
+      "title": "TRAF3 loss-of-function reveals the noncanonical NF-\u03baB pathway as a therapeutic target in diffuse large B cell lymphoma.",
+      "landing_page_url": "https://doi.org/10.1073/pnas.2320421121",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11067025.1/PMC11067025.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11067025.1",
+          "license": "CC BY-NC-ND",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11067025.1.json",
+          "access": "automatic",
+          "verified_sha256": "8b0b5a88e3806ea0f54077004d2008882779f4e0a5a856f5344d51b800383b8b"
+        }
+      ],
+      "version": "PMC11067025.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "f2a33f39f629678a0dac0129fb64297c3d8c20bdc9dcfbdc1eacb4544a4a9221",
+      "doi": "10.1073/pnas.2322520121",
+      "bytes": 1630990,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "PARP1 UFMylation ensures the stability of stalled replication forks.",
+      "landing_page_url": "https://doi.org/10.1073/pnas.2322520121",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11066985.1/PMC11066985.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11066985.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11066985.1.json",
+          "access": "automatic",
+          "verified_sha256": "f2a33f39f629678a0dac0129fb64297c3d8c20bdc9dcfbdc1eacb4544a4a9221"
+        }
+      ],
+      "version": "PMC11066985.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "b224f6d8ead9b85fe1e2a194118448b894832dc757ae5b5e978014995e084442",
+      "doi": "10.1091/mbc.e23-03-0084",
+      "bytes": 2337854,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Label-free proteomic comparison reveals ciliary and nonciliary phenotypes of IFT-A mutants.",
+      "landing_page_url": "https://doi.org/10.1091/mbc.e23-03-0084",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10916875.1/PMC10916875.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10916875.1",
+          "license": "CC BY-NC-SA",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10916875.1.json",
+          "access": "automatic",
+          "verified_sha256": "b224f6d8ead9b85fe1e2a194118448b894832dc757ae5b5e978014995e084442"
+        }
+      ],
+      "version": "PMC10916875.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "0d4fcaac20ab528bfdff0ab08d0f4ff423432eb94cd7194197ea36efd852d1df",
+      "doi": "10.1093/g3journal/jkad293",
+      "bytes": 1552307,
+      "splits": [
+        "train"
+      ],
+      "title": "Systematic profiling of ale yeast protein dynamics across fermentation and repitching.",
+      "landing_page_url": "https://doi.org/10.1093/g3journal/jkad293",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10917522.1/PMC10917522.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10917522.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10917522.1.json",
+          "access": "automatic",
+          "verified_sha256": "0d4fcaac20ab528bfdff0ab08d0f4ff423432eb94cd7194197ea36efd852d1df"
+        }
+      ],
+      "version": "PMC10917522.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "c8eb3079dace64fa969af7af7515d0f6d4c9ce7abf342949c3f1e80c66666268",
+      "doi": "10.1093/genetics/iyab101",
+      "bytes": 1348837,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Discovery of new vascular disrupting agents based on evolutionarily conserved drug action, pesticide resistance mutations, and humanized yeast.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8633126/",
+      "sources": [
+        {
+          "url": "https://academic.oup.com/genetics/article-pdf/219/1/iyab101/41279890/iyab101.pdf",
+          "provider": "Unpaywall",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC8633126?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "214052a07abce456f019a3a7e0408d48955c9f32a91f84b49e88c4f453fa3d32",
+      "doi": "10.1093/molbev/msad271",
+      "bytes": 9218911,
+      "splits": [
+        "validation"
+      ],
+      "title": "Phylloxera and Aphids Show Distinct Features of Genome Evolution Despite Similar Reproductive Modes.",
+      "landing_page_url": "https://doi.org/10.1093/molbev/msad271",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10748745.1/PMC10748745.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10748745.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10748745.1.json",
+          "access": "automatic",
+          "verified_sha256": "214052a07abce456f019a3a7e0408d48955c9f32a91f84b49e88c4f453fa3d32"
+        }
+      ],
+      "version": "PMC10748745.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "7c74d64612398d170661f3c963b480f5df3ff368619ee09aa66d493d5be70dec",
+      "doi": "10.1093/nar/gkae069",
+      "bytes": 2611104,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Chromatin damage generated by DNA intercalators leads to degradation of RNA Polymerase II.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae069",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077059.1/PMC11077059.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077059.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077059.1.json",
+          "access": "automatic",
+          "verified_sha256": "7c74d64612398d170661f3c963b480f5df3ff368619ee09aa66d493d5be70dec"
+        }
+      ],
+      "version": "PMC11077059.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "78cc1bd3924d5818eee660c5b3c73cd9b4e9aedbb50377fba70fda68d9d961c1",
+      "doi": "10.1093/nar/gkae088",
+      "bytes": 3611437,
+      "splits": [
+        "train"
+      ],
+      "title": "Lineage-determining transcription factor-driven promoters regulate cell type-specific macrophage gene expression.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae088",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077085.1/PMC11077085.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077085.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077085.1.json",
+          "access": "automatic",
+          "verified_sha256": "78cc1bd3924d5818eee660c5b3c73cd9b4e9aedbb50377fba70fda68d9d961c1"
+        }
+      ],
+      "version": "PMC11077085.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "53471ae3f8db54cea402fe4fa5c2a8c9b9f73fda602e3ad93dd3732f9d6607b6",
+      "doi": "10.1093/nar/gkae102",
+      "bytes": 2567218,
+      "splits": [
+        "validation"
+      ],
+      "title": "Novel insights into the role of translesion synthesis polymerase in DNA incorporation and bypass of 5-fluorouracil in colorectal cancer.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae102",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077093.1/PMC11077093.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077093.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077093.1.json",
+          "access": "automatic",
+          "verified_sha256": "53471ae3f8db54cea402fe4fa5c2a8c9b9f73fda602e3ad93dd3732f9d6607b6"
+        }
+      ],
+      "version": "PMC11077093.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "660a07bfc7933121b19ca294f9752152b09f2738c0f0c28bc7e966c9868dfb76",
+      "doi": "10.1093/nar/gkae105",
+      "bytes": 2759669,
+      "splits": [
+        "train"
+      ],
+      "title": "DNA-PK controls Apollo's access to leading-end telomeres.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae105",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077071.1/PMC11077071.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077071.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077071.1.json",
+          "access": "automatic",
+          "verified_sha256": "660a07bfc7933121b19ca294f9752152b09f2738c0f0c28bc7e966c9868dfb76"
+        }
+      ],
+      "version": "PMC11077071.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "e8c8a393e94bdc9de780f541b735f7773d82306ebbdaaa769788c25825e49f14",
+      "doi": "10.1093/nar/gkae130",
+      "bytes": 4129026,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "COSA-1 mediated pro-crossover complex formation promotes meiotic crossing over in C. elegans.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae130",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077092.1/PMC11077092.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077092.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077092.1.json",
+          "access": "automatic",
+          "verified_sha256": "e8c8a393e94bdc9de780f541b735f7773d82306ebbdaaa769788c25825e49f14"
+        }
+      ],
+      "version": "PMC11077092.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "51838833ea381b8ac5a83be1ca34cea38697305e53ae4e8cdf7cf9d66d5a4fc5",
+      "doi": "10.1093/nar/gkae167",
+      "bytes": 3071388,
+      "splits": [
+        "validation"
+      ],
+      "title": "CRISPR antiphage defence mediated by the cyclic nucleotide-binding membrane protein Csx23.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae167",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11014256.1/PMC11014256.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11014256.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11014256.1.json",
+          "access": "automatic",
+          "verified_sha256": "51838833ea381b8ac5a83be1ca34cea38697305e53ae4e8cdf7cf9d66d5a4fc5"
+        }
+      ],
+      "version": "PMC11014256.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "dc817e48bb94c0c8777c4fcc4386cd26249f331360260d0d387f6e7ae1b132ac",
+      "doi": "10.1093/nar/gkae212",
+      "bytes": 2680081,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "The crystal structure of bacteriophage \u03bb RexA provides novel insights into the DNA binding properties of Rex-like phage exclusion proteins.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae212",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077077.1/PMC11077077.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077077.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077077.1.json",
+          "access": "automatic",
+          "verified_sha256": "dc817e48bb94c0c8777c4fcc4386cd26249f331360260d0d387f6e7ae1b132ac"
+        }
+      ],
+      "version": "PMC11077077.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "edc56ec04f1f31d7e3b7790945521789821edff6400161a03cf61c590990cb98",
+      "doi": "10.1093/nar/gkae222",
+      "bytes": 2254104,
+      "splits": [
+        "train"
+      ],
+      "title": "Ribosomal RNA modification enzymes stimulate large ribosome subunit assembly in E. coli.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae222",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11194073.1/PMC11194073.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11194073.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11194073.1.json",
+          "access": "automatic",
+          "verified_sha256": "edc56ec04f1f31d7e3b7790945521789821edff6400161a03cf61c590990cb98"
+        }
+      ],
+      "version": "PMC11194073.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "2de222b4bef77a10a916f298b89efdc852fe4fbd5d2a12766ff9ad3fe2386951",
+      "doi": "10.1093/nar/gkae223",
+      "bytes": 1627476,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Bridging DNA contacts allow Dps from E. coli to condense DNA.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae223",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077075.1/PMC11077075.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077075.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077075.1.json",
+          "access": "automatic",
+          "verified_sha256": "2de222b4bef77a10a916f298b89efdc852fe4fbd5d2a12766ff9ad3fe2386951"
+        }
+      ],
+      "version": "PMC11077075.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "44c5c542a600cf337d0301ae5c1c685cb7ce21cad592ff85db18b387cddf990e",
+      "doi": "10.1093/nar/gkae252",
+      "bytes": 2017260,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Mutation rate heterogeneity at the sub-gene scale due to local DNA hypomethylation.",
+      "landing_page_url": "https://doi.org/10.1093/nar/gkae252",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077091.1/PMC11077091.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077091.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077091.1.json",
+          "access": "automatic",
+          "verified_sha256": "44c5c542a600cf337d0301ae5c1c685cb7ce21cad592ff85db18b387cddf990e"
+        }
+      ],
+      "version": "PMC11077091.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "5bf8e057f071fdf417324d4228ead3a2502423f805361b74cc5a3989b22ea0d3",
+      "doi": "10.1101/2021.05.12.443709",
+      "bytes": 3107848,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Chromatin state barriers enforce an irreversible mammalian cell fate decision",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2021.05.12.443709v1",
+      "version": "bioRxiv v1 (2021-05-14)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/5bf8e057f071fdf417324d4228ead3a2502423f805361b74cc5a3989b22ea0d3.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2021.05.12.443709v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2021.05.12.443709v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2021.05.12.443709/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "a6ef7798277ce4647254b6d83198e0bf6b9084c34b3ade91c329ac2d7ebd8a89",
+      "doi": "10.1101/2021.07.10.451889",
+      "bytes": 9117115,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Scalable full-transcript coverage single cell RNA sequencing with Smart-seq3xpress",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2021.07.10.451889v1",
+      "version": "bioRxiv v1 (2021-07-11)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/a6ef7798277ce4647254b6d83198e0bf6b9084c34b3ade91c329ac2d7ebd8a89.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2021.07.10.451889v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2021.07.10.451889v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2021.07.10.451889/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "6d6b61d3375d56870a48d9a46601123d77367df9e9482fb6762dffd5569a93d5",
+      "doi": "10.1101/2022.12.01.518682",
+      "bytes": 12637254,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Illuminating protein space with a programmable generative model",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2022.12.01.518682v1",
+      "version": "bioRxiv v1 (2022-12-02)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2022.12.01.518682v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2022.12.01.518682/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "34da6bba01ee24bc542ffee1083412cfe3f036b8580580160a5a90e65e4921af",
+      "doi": "10.1101/2022.12.20.521091",
+      "bytes": 4724021,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "High-throughput functional characterization of combinations of transcriptional activators and repressors",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2022.12.20.521091v1",
+      "version": "bioRxiv v1 (2022-12-20)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/34da6bba01ee24bc542ffee1083412cfe3f036b8580580160a5a90e65e4921af.pdf",
+          "license": "CC BY-NC",
+          "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2022.12.20.521091v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2022.12.20.521091v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2022.12.20.521091/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "sha256": "bda86a9a9f7cefb86e9c13a19ddb330120c3ed08ed4b810250b191ac6b565951",
+      "doi": "10.1101/2023.02.18.528865",
+      "bytes": 13219744,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Massive Multiplexing of Spatially Resolved Single Neuron Projections with Axonal BARseq",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2023.02.18.528865v1",
+      "version": "bioRxiv v1 (2023-02-18)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/bda86a9a9f7cefb86e9c13a19ddb330120c3ed08ed4b810250b191ac6b565951.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2023.02.18.528865v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2023.02.18.528865v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2023.02.18.528865/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "b44938da247467d702b89385ec92ff494fe1a4bb0dbc3c7a23cca1a73fcd0833",
+      "doi": "10.1101/2023.05.21.541555",
+      "bytes": 14909376,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Discovery of new deaminase functions by structure-based protein clustering",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2023.05.21.541555v1",
+      "version": "bioRxiv v1 (2023-05-22)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2023.05.21.541555v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2023.05.21.541555/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "77fd607927e4db9458508918d4c6d314af341bd6fedc5b53f60cf74e7e71187e",
+      "doi": "10.1101/2023.06.13.544831",
+      "bytes": 9423746,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Scalable, cell type-selective, AAV-based in vivo CRISPR screening in the mouse brain",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2023.06.13.544831v2",
+      "version": "bioRxiv v2 (2023-06-27)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/77fd607927e4db9458508918d4c6d314af341bd6fedc5b53f60cf74e7e71187e.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2023.06.13.544831v2"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2023.06.13.544831v2.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2023.06.13.544831/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "8c20097feedc175c60ece365bd5bf12c42ba0a1fa7dc703ac2e50a4845313711",
+      "doi": "10.1101/2023.08.22.554289",
+      "bytes": 1429882,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Design of Cytotoxic T Cell Epitopes by Machine Learning of Human Degrons",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2023.08.22.554289v2",
+      "version": "bioRxiv v2 (2023-09-26)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/8c20097feedc175c60ece365bd5bf12c42ba0a1fa7dc703ac2e50a4845313711.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2023.08.22.554289v2"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2023.08.22.554289v2.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2023.08.22.554289/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "ecd03e01c895835d6a9b8583ba036d2459bc19f3cb952b41e124b891563f3dd1",
+      "doi": "10.1101/2023.11.15.567300",
+      "bytes": 1865802,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Promoter capture drives the emergence of proto-genes in Escherichia coli",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2023.11.15.567300v1",
+      "version": "bioRxiv v1 (2023-11-17)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2023.11.15.567300v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2023.11.15.567300/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "adfe706974a7e67ac6c1d2bbeb88edebf412a8c7ba0327fd085d1a894d25cf05",
+      "doi": "10.1101/2023.11.29.569229",
+      "bytes": 7495834,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Encapsulation of AAVs into protein vault nanoparticles as a novel solution to gene therapy's neutralizing antibody problem",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2023.11.29.569229v4",
+      "version": "bioRxiv v4 (2024-02-15)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/adfe706974a7e67ac6c1d2bbeb88edebf412a8c7ba0327fd085d1a894d25cf05.pdf",
+          "license": "CC BY-NC",
+          "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2023.11.29.569229v4"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2023.11.29.569229v4.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2023.11.29.569229/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "sha256": "62f8ef12b092f76dfaeb143e050430dd8b859f0e105879108d300bf9acedf417",
+      "doi": "10.1101/2023.12.19.572360",
+      "bytes": 3406730,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "The dual role of Spn-E in supporting heterotypic ping-pong piRNA amplification in silkworms",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2023.12.19.572360v2",
+      "version": "bioRxiv v2 (2024-04-03)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/62f8ef12b092f76dfaeb143e050430dd8b859f0e105879108d300bf9acedf417.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2023.12.19.572360v2"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2023.12.19.572360v2.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2023.12.19.572360/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "345d126c0716b7e6d5b7a0df1bdc6c9dbecb15501637daa1e03ca42eccb212ea",
+      "doi": "10.1101/2024.01.31.578101",
+      "bytes": 5242905,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "The T-cell niche tunes immune function through modulation of the cytoskeleton and TCR-antigen forces",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.01.31.578101v1",
+      "version": "bioRxiv v1 (2024-02-02)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.01.31.578101v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.01.31.578101/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "ef34a2f13d05d727a1e78da23d4a2b4e4b295d0a4e87e55c91226f181ed5d4fb",
+      "doi": "10.1101/2024.02.01.578450",
+      "bytes": 1396467,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Nanopore-based DNA long-read sequencing analysis of the aged human brain",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.02.01.578450v1",
+      "version": "bioRxiv v1 (2024-02-05)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/ef34a2f13d05d727a1e78da23d4a2b4e4b295d0a4e87e55c91226f181ed5d4fb.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.02.01.578450v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.02.01.578450v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.02.01.578450/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "1005ff4d4f1eabf4a18c621017d39bc2f4e88c56251f0f547a64244b0c1bd9f1",
+      "doi": "10.1101/2024.02.02.578660",
+      "bytes": 8333835,
+      "splits": [
+        "validation"
+      ],
+      "title": "Single-molecule chromatin configurations link transcription factor binding to expression in human cells",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.02.02.578660v1",
+      "version": "bioRxiv v1 (2024-02-04)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/1005ff4d4f1eabf4a18c621017d39bc2f4e88c56251f0f547a64244b0c1bd9f1.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.02.02.578660v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.02.02.578660v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.02.02.578660/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "61ba3884ad9052b9c43fad93bce4f66d3dc3f2349d70b4daa70844150cc2b3ad",
+      "doi": "10.1101/2024.02.06.579151",
+      "bytes": 3976005,
+      "splits": [
+        "validation"
+      ],
+      "title": "Substrate stiffness modulates the emergence and magnitude of senescence phenotypes",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.02.06.579151v1",
+      "version": "bioRxiv v1 (2024-02-07)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.02.06.579151v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.02.06.579151/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "93affe56693985e7c2cfec1eec77a2c815758ef71107af53d4f4b54464833b89",
+      "doi": "10.1101/2024.02.13.580051",
+      "bytes": 865163,
+      "splits": [
+        "validation"
+      ],
+      "title": "REV1 Coordinates a Multi-Faceted Tolerance Response to DNA Alkylation Damage and Prevents Chromosome Shattering in Drosophila melanogaster",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.02.13.580051v1",
+      "version": "bioRxiv v1 (2024-02-13)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/93affe56693985e7c2cfec1eec77a2c815758ef71107af53d4f4b54464833b89.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.02.13.580051v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.02.13.580051v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.02.13.580051/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "b1cda7886b22d1c2c0490bc0f6e48564567c32b4cc91f8546452974bd1867d8f",
+      "doi": "10.1101/2024.02.20.581217",
+      "bytes": 8366294,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Saccharomyces cerevisiae Rev7 promotes non-homologous end-joining by blocking Mre11 nuclease and Rad50's ATPase activities and homologous recombination",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.02.20.581217v2",
+      "version": "bioRxiv v2 (2024-09-26)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/b1cda7886b22d1c2c0490bc0f6e48564567c32b4cc91f8546452974bd1867d8f.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.02.20.581217v2"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.02.20.581217v2.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.02.20.581217/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "80863eaf8c4965dd7110bbe03410dc28b28e5d88d2d2dd38d6dafea77ff79680",
+      "doi": "10.1101/2024.03.18.585604",
+      "bytes": 23407785,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "The PRC2.1 Subcomplex Opposes G1 Progression through Regulation of CCND1 and CCND2",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.03.18.585604v1",
+      "version": "bioRxiv v1 (2024-03-22)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/80863eaf8c4965dd7110bbe03410dc28b28e5d88d2d2dd38d6dafea77ff79680.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.03.18.585604v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.03.18.585604v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.03.18.585604/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "d6e0ffff964ebd679ca292844e15d463602577b968f3361f470788bd797099b8",
+      "doi": "10.1101/2024.04.08.588603",
+      "bytes": 2295184,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A prion-like protein regulates the 2-dimensional to 3-dimensional growth transition in the moss Physcomitrium patens",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.04.08.588603v1",
+      "version": "bioRxiv v1 (2024-04-10)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/d6e0ffff964ebd679ca292844e15d463602577b968f3361f470788bd797099b8.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.04.08.588603v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.04.08.588603v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.04.08.588603/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "576ba989d256ba60a08a2f7aae58498ad2586de21f2b4bec04bab0c7cd6c73b9",
+      "doi": "10.1101/2024.04.26.591386",
+      "bytes": 5424222,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A morphology and secretome map of pyroptosis",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.04.26.591386v2",
+      "version": "bioRxiv v2 (2025-03-15)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/576ba989d256ba60a08a2f7aae58498ad2586de21f2b4bec04bab0c7cd6c73b9.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.04.26.591386v2"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.04.26.591386v2.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.04.26.591386/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "c42d7dbe4fb4c4709d69bae0cf0ca8dc89105d02a68a57868538ea73c6c7b7b1",
+      "doi": "10.1101/2024.05.03.592390",
+      "bytes": 14716907,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Set2 and H3K36 regulate the Drosophila male X chromosome in a context-specific manner, independent from MSL complex spreading",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.03.592390v1",
+      "version": "bioRxiv v1 (2024-05-06)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/c42d7dbe4fb4c4709d69bae0cf0ca8dc89105d02a68a57868538ea73c6c7b7b1.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.05.03.592390v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.03.592390v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.03.592390/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "512b55cf749ee4b2d095b30dcf4fe068eea566b12d79ad70611ea5032bf4b896",
+      "doi": "10.1101/2024.05.07.593065",
+      "bytes": 3115486,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Super Enhancer-driven LncRNA UNC5B-AS1 Inhibits Inflammatory Phenotypic Transition in Smooth Muscle Cells via Lactylation Modification",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.07.593065v1",
+      "version": "bioRxiv v1 (2024-05-10)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.07.593065v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.07.593065/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "5bf2ea38a8da0897cf7941e3c939c8e57a9d8e73ebb7495479c120554b7a1116",
+      "doi": "10.1101/2024.05.13.593760",
+      "bytes": 6201521,
+      "splits": [
+        "validation"
+      ],
+      "title": "Y chromosome linked UTY modulates sex differences in valvular fibroblast methylation in response to nanoscale extracellular matrix cues",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593760v2",
+      "version": "bioRxiv v2 (2024-08-19)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593760v2.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.13.593760/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "cf54bc311b0ba90c21591934c2ed6b49584f95450c25df1a6f4a97001a9a17a9",
+      "doi": "10.1101/2024.05.13.593822",
+      "bytes": 7194183,
+      "splits": [
+        "validation"
+      ],
+      "title": "Deep phenotyping of the prostate tumor microenvironment reveals molecular stratifiers of relapse and links inflammatory chemokine expression to aberrant metabolism",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593822v2",
+      "version": "bioRxiv v2 (2024-07-11)",
+      "sources": [
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593822v2.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_no",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.13.593822/na/json"
+        }
+      ],
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "9656b05179ebf1c3e3ba5830df23e5b9e1f251ecbcc841314af3cba5d885dd5b",
+      "doi": "10.1101/2024.05.13.593833",
+      "bytes": 2465257,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Enhancing affinity of neutralizing SARS-CoV-2 nanobody through facile structure-guided mutations in CDRs",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593833v3",
+      "version": "bioRxiv v3 (2024-05-24)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/9656b05179ebf1c3e3ba5830df23e5b9e1f251ecbcc841314af3cba5d885dd5b.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593833v3"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593833v3.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.13.593833/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "03adeaf3846080d7a12440610c1cbb16ca4a8b2496bedce10982bfec867b556a",
+      "doi": "10.1101/2024.05.13.593936",
+      "bytes": 993442,
+      "splits": [
+        "validation"
+      ],
+      "title": "Residues Neighboring an SH3-Binding Motif Participate in the Interaction In Vivo",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593936v4",
+      "version": "bioRxiv v4 (2025-07-23)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/03adeaf3846080d7a12440610c1cbb16ca4a8b2496bedce10982bfec867b556a.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593936v4"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.13.593936v4.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.13.593936/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "7ae59df25202101b3cd12efc5dbb0c15519fa9193a6c16e2c7c0d35c39328bbd",
+      "doi": "10.1101/2024.05.14.594155",
+      "bytes": 951767,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Genetically modifying the protein matrix of macroscopic living materials to control their structure and rheological properties",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.14.594155v1",
+      "version": "bioRxiv v1 (2024-05-14)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/7ae59df25202101b3cd12efc5dbb0c15519fa9193a6c16e2c7c0d35c39328bbd.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.05.14.594155v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.14.594155v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.14.594155/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "9d5b74fb43a0f7075f24533b9457e37534a4c398933423387de72a0b78c722d5",
+      "doi": "10.1101/2024.05.15.594272",
+      "bytes": 23103666,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Dual-Action Kinase Inhibitors Influence p38\u03b1 MAP Kinase Dephosphorylation",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.15.594272v3",
+      "version": "bioRxiv v3 (2024-08-08)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/9d5b74fb43a0f7075f24533b9457e37534a4c398933423387de72a0b78c722d5.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.05.15.594272v3"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.15.594272v3.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.15.594272/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "c886efedf9b5dc8f1b8a97441a0ec67749c9fc0c10978d8b08def49baa54824b",
+      "doi": "10.1101/2024.05.15.594402",
+      "bytes": 2963514,
+      "splits": [
+        "validation"
+      ],
+      "title": "Chaperoning the chaperones: Proteomic analysis of the SMN complex reveals conserved and etiologic connections to the proteostasis network",
+      "landing_page_url": "https://www.biorxiv.org/content/10.1101/2024.05.15.594402v1",
+      "version": "bioRxiv v1 (2024-05-16)",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/c886efedf9b5dc8f1b8a97441a0ec67749c9fc0c10978d8b08def49baa54824b.pdf",
+          "license": "CC BY-NC-ND",
+          "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "metadata_url": "https://www.biorxiv.org/content/10.1101/2024.05.15.594402v1"
+        },
+        {
+          "url": "https://www.biorxiv.org/content/10.1101/2024.05.15.594402v1.full.pdf",
+          "access": "browser",
+          "provider": "bioRxiv",
+          "license": "cc_by_nc_nd",
+          "metadata_url": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.05.15.594402/na/json"
+        }
+      ],
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "sha256": "090431021e4c3800303b31e037e39803748d544d76c03a03fb211f06ac912b43",
+      "doi": "10.1111/acel.14128",
+      "bytes": 8088611,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Inhibition of 26S proteasome activity by \u03b1-synuclein is mediated by the proteasomal chaperone Rpn14/PAAF1.",
+      "landing_page_url": "https://doi.org/10.1111/acel.14128",
+      "sources": [
+        {
+          "url": "https://pub.dzne.de/record/269765/files/DZNE-2024-00607.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Facel.14128",
+          "access": "automatic",
+          "verified_sha256": "090431021e4c3800303b31e037e39803748d544d76c03a03fb211f06ac912b43"
+        }
+      ],
+      "version": "submittedVersion",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "0ba6ac3e58006986558a3cba2a1fdb0dff59a01128f65c462cf98c74bd8c106b",
+      "doi": "10.1111/nph.19360",
+      "bytes": 6262065,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Nodule-specific Cu<sup>+</sup> -chaperone NCC1 is required for symbiotic nitrogen fixation in Medicago truncatula root nodules.",
+      "landing_page_url": "https://doi.org/10.1111/nph.19360",
+      "sources": [
+        {
+          "url": "https://digital.csic.es/bitstream/10261/354179/1/Nodule_specific_Cu%20_chaperone.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by-nc",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1111%2Fnph.19360",
+          "access": "automatic",
+          "verified_sha256": "0ba6ac3e58006986558a3cba2a1fdb0dff59a01128f65c462cf98c74bd8c106b"
+        }
+      ],
+      "version": "submittedVersion",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "92cfef3b972c6e6dd1937057d0c8837fa66bee8321268d4e8612b8b615362ee3",
+      "doi": "10.1126/sciadv.add4623",
+      "bytes": 2487454,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Peptide-guided lipid nanoparticles deliver mRNA to the neural retina of rodents and nonhuman primates.",
+      "landing_page_url": "https://doi.org/10.1126/sciadv.add4623",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9833661.1/PMC9833661.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9833661.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9833661.1.json",
+          "access": "automatic",
+          "verified_sha256": "92cfef3b972c6e6dd1937057d0c8837fa66bee8321268d4e8612b8b615362ee3"
+        }
+      ],
+      "version": "PMC9833661.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "1922adb1d2a3c01ab8e027dffb07adc47adda886904bfacd30f9f05c15bbd111",
+      "doi": "10.1126/sciadv.adk0171",
+      "bytes": 5682646,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Programmable RNA-guided DNA endonucleases are widespread in eukaryotes and their viruses.",
+      "landing_page_url": "https://doi.org/10.1126/sciadv.adk0171",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10530073.1/PMC10530073.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10530073.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10530073.1.json",
+          "access": "automatic",
+          "verified_sha256": "1922adb1d2a3c01ab8e027dffb07adc47adda886904bfacd30f9f05c15bbd111"
+        }
+      ],
+      "version": "PMC10530073.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "e705061adf0b25a688cc49349d93a5cda398bec1021ee5ce4fbd45e747b210e3",
+      "doi": "10.1126/science.aaw1219",
+      "bytes": 1283490,
+      "splits": [
+        "train"
+      ],
+      "title": "Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6927209/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC6927209?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "c2057f1e716111b0af4c80e0d6dc8a33abbb5fe6f76e23667cf447cec000ffd9",
+      "doi": "10.1126/science.aba1624",
+      "bytes": 2539709,
+      "splits": [
+        "validation"
+      ],
+      "title": "Synthetic cytokine circuits that drive T cells into immune-excluded tumors.",
+      "landing_page_url": "https://doi.org/10.1126/science.aba1624",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9970000.1/PMC9970000.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9970000.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9970000.1.json",
+          "access": "automatic",
+          "verified_sha256": "c2057f1e716111b0af4c80e0d6dc8a33abbb5fe6f76e23667cf447cec000ffd9"
+        }
+      ],
+      "version": "PMC9970000.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "abe7e9399591ec93dfb667131e28213fd566392cdb7f26f396950e09404b30ad",
+      "doi": "10.1126/science.aba6500",
+      "bytes": 3722982,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Developmental cell programs are co-opted in inflammatory skin disease.",
+      "landing_page_url": "https://doi.org/10.1126/science.aba6500",
+      "sources": [
+        {
+          "url": "https://www.repository.cam.ac.uk/bitstreams/40f71e93-e4ca-44f0-b308-c037b54beccf/download",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "cc-by",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1126%2Fscience.aba6500",
+          "access": "automatic",
+          "verified_sha256": "abe7e9399591ec93dfb667131e28213fd566392cdb7f26f396950e09404b30ad"
+        }
+      ],
+      "version": "submittedVersion",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "96f48b1305cb4edf962da8874eef387715bdce8d38ab67d4dca67782e3fdbf89",
+      "doi": "10.1126/science.abf8761",
+      "bytes": 3861515,
+      "splits": [
+        "validation"
+      ],
+      "title": "Revealing enzyme functional architecture via high-throughput microfluidic enzyme kinetics.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8454890/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC8454890?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "ace3d4bcabf6ba1fff111524a82e9dc1af2779c53f5981028e6032e2c9e42454",
+      "doi": "10.1126/science.abi9591",
+      "bytes": 3674683,
+      "splits": [
+        "validation"
+      ],
+      "title": "KIR+CD8+ T cells suppress pathogenic T cells and are active in autoimmune diseases and COVID-19.",
+      "landing_page_url": "https://doi.org/10.1126/science.abi9591",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8995031.1/PMC8995031.1.pdf",
+          "provider": "PMC",
+          "version": "PMC8995031.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC8995031.1.json",
+          "access": "automatic",
+          "verified_sha256": "ace3d4bcabf6ba1fff111524a82e9dc1af2779c53f5981028e6032e2c9e42454"
+        }
+      ],
+      "version": "PMC8995031.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "25952f0c1eb796657371d0760699a9915d188c993352c43e94ac96921e7df014",
+      "doi": "10.1126/science.abk2432",
+      "bytes": 4205657,
+      "splits": [
+        "validation"
+      ],
+      "title": "Fly Cell Atlas: A single-nucleus transcriptomic atlas of the adult fruit fly.",
+      "landing_page_url": "https://doi.org/10.1126/science.abk2432",
+      "sources": [
+        {
+          "url": "https://biblio.ugent.be/publication/01K10BYBSPQ31RWS6DZM725QG2/file/01K10C3BP3GD0XKMJW4B1ST1J3.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": "other-oa",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1126%2Fscience.abk2432",
+          "access": "automatic",
+          "verified_sha256": "25952f0c1eb796657371d0760699a9915d188c993352c43e94ac96921e7df014"
+        }
+      ],
+      "version": "submittedVersion",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "73d94b3b14faaf132e5601af2584d06d44e563074ed9c4223c6a46c3052ce2ca",
+      "doi": "10.1126/science.abl4896",
+      "bytes": 3206644,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9812260/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC9812260?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "c1b57e22e7fa436bf4ca7f54cd18e8682d33ff58ee9e67b800e1b4361dbc0862",
+      "doi": "10.1126/science.add5892",
+      "bytes": 3986393,
+      "splits": [
+        "validation"
+      ],
+      "title": "An enzyme cascade enables production of therapeutic oligonucleotides in a single operation.",
+      "landing_page_url": "https://doi.org/10.1126/science.add5892",
+      "sources": [
+        {
+          "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+          "provider": "SHarP CC-licensed supplement",
+          "access": "automatic",
+          "bundle": "litqa2-v2-cc-supplement",
+          "archive_member": "pdfs/c1b57e22e7fa436bf4ca7f54cd18e8682d33ff58ee9e67b800e1b4361dbc0862.pdf",
+          "license": "CC BY",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "metadata_url": "https://research.manchester.ac.uk/en/publications/an-enzyme-cascade-enables-production-of-therapeutic-oligonucleoti/"
+        },
+        {
+          "url": "https://doi.org/10.1126/science.add5892",
+          "access": "browser",
+          "provider": "Publisher article page"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "licensed_supplement",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "sha256": "cac59605683d52276636bfa6d15d754f50c4c7938041f6df72ff883fc2a98f24",
+      "doi": "10.1126/science.add9330",
+      "bytes": 4056486,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "The connectome of an insect brain.",
+      "landing_page_url": "https://doi.org/10.1126/science.add9330",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7614541.1/PMC7614541.1.pdf",
+          "provider": "PMC",
+          "version": "PMC7614541.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC7614541.1.json",
+          "access": "automatic",
+          "verified_sha256": "cac59605683d52276636bfa6d15d754f50c4c7938041f6df72ff883fc2a98f24"
+        }
+      ],
+      "version": "PMC7614541.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "7a1ba0f8a38171d681d82b78f32286f6ae0b88df4fc57dcbe98a4eedc8c3e70c",
+      "doi": "10.1126/science.adk9469",
+      "bytes": 1627641,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Prophage proteins alter long noncoding RNA and DNA of developing sperm to induce a paternal-effect lethality.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11187695/",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11187695/pdf/nihms-1996529.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1126%2Fscience.adk9469",
+          "access": "browser"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC11187695?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Author manuscript; match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "6f506b599725499144ab74231fa46ad04786887b3c0112490e5e74a9b9684d59",
+      "doi": "10.1128/aem.01486-22",
+      "bytes": 3159826,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Evidence for Widespread Class II Microcins in Enterobacterales Genomes.",
+      "landing_page_url": "https://doi.org/10.1128/aem.01486-22",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9746304.1/PMC9746304.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9746304.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9746304.1.json",
+          "access": "automatic",
+          "verified_sha256": "6f506b599725499144ab74231fa46ad04786887b3c0112490e5e74a9b9684d59"
+        }
+      ],
+      "version": "PMC9746304.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "8da60ac30f2372cf05f852ca0ee179611f1f525380d2adc655050f8132918c79",
+      "doi": "10.1128/jb.00479-21",
+      "bytes": 1116833,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "CsrA-Controlled Proteins Reveal New Dimensions of Acinetobacter baumannii Desiccation Tolerance.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9017300/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC9017300?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "85b5ca2d67d9b6147f183139d17bb5cbc6e1e1646df1587e7538acc0f7ab4be6",
+      "doi": "10.1128/msphere.00109-24",
+      "bytes": 1581479,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Differential development of antibiotic resistance and virulence between <i>Acinetobacter</i> species.",
+      "landing_page_url": "https://doi.org/10.1128/msphere.00109-24",
+      "sources": [
+        {
+          "url": "https://ueaeprints.uea.ac.uk/id/eprint/97157/1/Darby_etal_2024_mSphere.pdf",
+          "provider": "OpenAlex OA location",
+          "version": "submittedVersion",
+          "license": null,
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.1128%2Fmsphere.00109-24",
+          "access": "automatic",
+          "verified_sha256": "85b5ca2d67d9b6147f183139d17bb5cbc6e1e1646df1587e7538acc0f7ab4be6"
+        }
+      ],
+      "version": "submittedVersion",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "80cecb5268e7948dd1eb2418c501b1661c3e0789f12cbc3c55af971c2a430ad4",
+      "doi": "10.1186/s12915-023-01805-w",
+      "bytes": 3107787,
+      "splits": [
+        "validation"
+      ],
+      "title": "TMPRSS2 isoform 1 downregulation by G-quadruplex stabilization induces SARS-CoV-2 replication arrest.",
+      "landing_page_url": "https://doi.org/10.1186/s12915-023-01805-w",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10773119.1/PMC10773119.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10773119.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10773119.1.json",
+          "access": "automatic",
+          "verified_sha256": "80cecb5268e7948dd1eb2418c501b1661c3e0789f12cbc3c55af971c2a430ad4"
+        }
+      ],
+      "version": "PMC10773119.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "31d0ed901b79d572d8a949adb503c395a55b7ccadfec6ab45c54a0b40407bdce",
+      "doi": "10.1186/s12915-024-01840-1",
+      "bytes": 2864405,
+      "splits": [
+        "train"
+      ],
+      "title": "ADARs regulate cuticle collagen expression and promote survival to pathogen infection.",
+      "landing_page_url": "https://doi.org/10.1186/s12915-024-01840-1",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10870475.1/PMC10870475.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10870475.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10870475.1.json",
+          "access": "automatic",
+          "verified_sha256": "31d0ed901b79d572d8a949adb503c395a55b7ccadfec6ab45c54a0b40407bdce"
+        }
+      ],
+      "version": "PMC10870475.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "71a1a5709621759518fdd7ae03f4a47212582675862e59e8cb9880590bb24114",
+      "doi": "10.1186/s12915-024-01908-y",
+      "bytes": 2806700,
+      "splits": [
+        "train"
+      ],
+      "title": "Temporal landscape and translational regulation of A-to-I RNA editing in mouse retina development.",
+      "landing_page_url": "https://doi.org/10.1186/s12915-024-01908-y",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11077751.1/PMC11077751.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11077751.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11077751.1.json",
+          "access": "automatic",
+          "verified_sha256": "71a1a5709621759518fdd7ae03f4a47212582675862e59e8cb9880590bb24114"
+        }
+      ],
+      "version": "PMC11077751.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "311a2ec6b0aeb5489e71ef2ded1f914d3e6b28fcf3404d7ed13756d0fb65d6bb",
+      "doi": "10.1186/s12915-024-01918-w",
+      "bytes": 2317020,
+      "splits": [
+        "validation"
+      ],
+      "title": "Exonuclease editor promotes precision of gene editing in mammalian cells.",
+      "landing_page_url": "https://doi.org/10.1186/s12915-024-01918-w",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11107001.1/PMC11107001.1.pdf",
+          "provider": "PMC",
+          "version": "PMC11107001.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC11107001.1.json",
+          "access": "automatic",
+          "verified_sha256": "311a2ec6b0aeb5489e71ef2ded1f914d3e6b28fcf3404d7ed13756d0fb65d6bb"
+        }
+      ],
+      "version": "PMC11107001.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "312bdc4b463244d41112984bcb3154c119e66662f414be61f1c1415bbf4fcfa2",
+      "doi": "10.1186/s13059-023-02935-8",
+      "bytes": 2169446,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "A comprehensive map of human glucokinase variant activity.",
+      "landing_page_url": "https://doi.org/10.1186/s13059-023-02935-8",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10131484.1/PMC10131484.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10131484.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10131484.1.json",
+          "access": "automatic",
+          "verified_sha256": "312bdc4b463244d41112984bcb3154c119e66662f414be61f1c1415bbf4fcfa2"
+        }
+      ],
+      "version": "PMC10131484.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "80faab2369b735452d7bc383b8bff273c7926ca87c51148fce65ed9290f53ef9",
+      "doi": "10.1261/rna.034181.112",
+      "bytes": 2066071,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "The multiple Tudor domain-containing protein TDRD1 is a molecular scaffold for mouse Piwi proteins and piRNA biogenesis factors.",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3479395/",
+      "sources": [
+        {
+          "url": "https://europepmc.org/articles/PMC3479395?pdf=render",
+          "provider": "Europe_PMC",
+          "access": "browser"
+        }
+      ],
+      "version": "Match frozen SHA-256",
+      "acquisition_status": "browser_download_not_byte_verified"
+    },
+    {
+      "sha256": "70515652b81c105383fcf712095774ccd60ef48043c869e36a4f793a8b288718",
+      "doi": "10.2147/cmar.s262421",
+      "bytes": 5365177,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "HNRNPCL1, PRAMEF1, CFAP74, and DFFB: Common Potential Biomarkers for Sporadic and Suspected Lynch Syndrome Endometrial Cancer.",
+      "landing_page_url": "https://doi.org/10.2147/cmar.s262421",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7649238.1/PMC7649238.1.pdf",
+          "provider": "PMC",
+          "version": "PMC7649238.1",
+          "license": "CC BY-NC",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC7649238.1.json",
+          "access": "automatic",
+          "verified_sha256": "70515652b81c105383fcf712095774ccd60ef48043c869e36a4f793a8b288718"
+        }
+      ],
+      "version": "PMC7649238.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "45c8460604345a721b508dc0fa882d00c36d8b97c4892434ef881da2c6481a68",
+      "doi": "10.3390/cancers14194849",
+      "bytes": 3872079,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Intestinal Microbiota Influence Doxorubicin Responsiveness in Triple-Negative Breast Cancer.",
+      "landing_page_url": "https://doi.org/10.3390/cancers14194849",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9563306.1/PMC9563306.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9563306.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9563306.1.json",
+          "access": "automatic",
+          "verified_sha256": "45c8460604345a721b508dc0fa882d00c36d8b97c4892434ef881da2c6481a68"
+        }
+      ],
+      "version": "PMC9563306.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "41306673c187a08f6da47da854aa8b4bd780e1d817ae23b516d4c475eee4c05f",
+      "doi": "10.3390/ijms25031660",
+      "bytes": 3571203,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Characterization of a Novel N4-Methylcytosine Restriction-Modification System in Deinococcus radiodurans.",
+      "landing_page_url": "https://doi.org/10.3390/ijms25031660",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10855626.1/PMC10855626.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10855626.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10855626.1.json",
+          "access": "automatic",
+          "verified_sha256": "41306673c187a08f6da47da854aa8b4bd780e1d817ae23b516d4c475eee4c05f"
+        }
+      ],
+      "version": "PMC10855626.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "c7360229ab20f41efc554946ab10638c7b424bbd422c3a6bfc676b25ce9a6e60",
+      "doi": "10.7150/ijbs.86869",
+      "bytes": 3669545,
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "title": "Precise Orchestration of Gasdermins' Pore-Forming Function by Posttranslational Modifications in Health and Disease.",
+      "landing_page_url": "https://doi.org/10.7150/ijbs.86869",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10539709.1/PMC10539709.1.pdf",
+          "provider": "PMC",
+          "version": "PMC10539709.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC10539709.1.json",
+          "access": "automatic",
+          "verified_sha256": "c7360229ab20f41efc554946ab10638c7b424bbd422c3a6bfc676b25ce9a6e60"
+        }
+      ],
+      "version": "PMC10539709.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "1b1d2b64ed44bdeecc9ed831c558a3a48d52189d268cfef1ed063a169d67d39c",
+      "doi": "10.7554/elife.76630",
+      "bytes": 7182803,
+      "splits": [
+        "validation"
+      ],
+      "title": "Structural and thermodynamic analyses of the \u03b2-to-\u03b1 transformation in RfaH reveal principles of fold-switching proteins.",
+      "landing_page_url": "https://doi.org/10.7554/elife.76630",
+      "sources": [
+        {
+          "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9683785.1/PMC9683785.1.pdf",
+          "provider": "PMC",
+          "version": "PMC9683785.1",
+          "license": "CC BY",
+          "metadata_url": "https://pmc-oa-opendata.s3.amazonaws.com/metadata/PMC9683785.1.json",
+          "access": "automatic",
+          "verified_sha256": "1b1d2b64ed44bdeecc9ed831c558a3a48d52189d268cfef1ed063a169d67d39c"
+        }
+      ],
+      "version": "PMC9683785.1",
+      "acquisition_status": "verified_public_download"
+    },
+    {
+      "sha256": "4823be68f8f96c66ab2ae909165210c7a08969e9ecc81526d2e5ab367dcb545c",
+      "doi": "10.7554/elife.91357.3",
+      "bytes": 3860091,
+      "splits": [
+        "validation"
+      ],
+      "title": "Post-transcriptional splicing can occur in a slow-moving zone around the gene",
+      "landing_page_url": "https://doi.org/10.7554/elife.91357.3",
+      "sources": [
+        {
+          "url": "https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvOTEzNTcvZWxpZmUtOTEzNTctdjEucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzkxMzU3/elife-91357-v1.pdf?_hash=PkCM1gyqr5cTZo9OA%2Fe7G2RdaCJoo9SCZipud8vw09g%3D",
+          "provider": "OpenAlex OA location",
+          "version": "publishedVersion",
+          "license": "cc-by",
+          "metadata_url": "https://api.openalex.org/works/https%3A%2F%2Fdoi.org%2F10.7554%2Felife.91357.3",
+          "access": "automatic",
+          "verified_sha256": "4823be68f8f96c66ab2ae909165210c7a08969e9ecc81526d2e5ab367dcb545c"
+        }
+      ],
+      "version": "publishedVersion",
+      "acquisition_status": "verified_public_download"
+    }
+  ],
+  "corpus_version": "litqa2-v2",
+  "pdf_bundles": [
+    {
+      "id": "litqa2-v2-cc-supplement",
+      "filename": "litqa2-v2-cc-supplement.tar.gz",
+      "url": "https://github.com/UCSB-NLP-Chang/SHarP/releases/download/litqa2-v2-data/litqa2-v2-cc-supplement.tar.gz",
+      "sha256": "6e5c82e92de8ec7e764d27cb83e5d9f4753c4e7efaab8e318e5539d5123ad954",
+      "bytes": 156753589,
+      "documents": 27
+    }
+  ]
+}

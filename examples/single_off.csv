@@ -1,0 +1,13 @@
+task_id,component,score,tokens
+synthetic_1,search,0,120
+synthetic_1,planning,1,180
+synthetic_1,summary,1,240
+synthetic_2,search,0,150
+synthetic_2,planning,1,220
+synthetic_2,summary,1,290
+synthetic_3,search,1,100
+synthetic_3,planning,1,140
+synthetic_3,summary,1,190
+synthetic_4,search,0,180
+synthetic_4,planning,1,200
+synthetic_4,summary,1,320

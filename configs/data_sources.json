@@ -1,0 +1,13 @@
+{
+  "litqa2_records": {
+    "repository": "https://github.com/Future-House/LAB-Bench",
+    "revision": "998a8e0a40cf116c80e1b0e7a805ebb5fb9fa838",
+    "url": "https://raw.githubusercontent.com/Future-House/LAB-Bench/998a8e0a40cf116c80e1b0e7a805ebb5fb9fa838/LitQA2/litqa-v2-public.jsonl",
+    "sha256": "e0c988a473cd54668fd743970ea0f226861f17fb0dff4894db35d17b43993fac"
+  },
+  "gaia": {
+    "repo_id": "gaia-benchmark/GAIA",
+    "revision": "682dd723ee1e1697e00360edccf2366dc8418dd9",
+    "access": "Accept upstream terms and authenticate with a read token from the approved account."
+  }
+}

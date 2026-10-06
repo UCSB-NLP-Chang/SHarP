@@ -1,0 +1,39 @@
+diff --git a/src/paperqa/agents/search.py b/src/paperqa/agents/search.py
+index 6fd768e..4520eb1 100644
+--- a/src/paperqa/agents/search.py
++++ b/src/paperqa/agents/search.py
+@@ -669,9 +669,31 @@ async def get_directory_index(
+         )
+ 
+     index_unique_file_paths: set[str] = set((await search_index.index_files).keys())
+-    if extra_index_files := (
+-        index_unique_file_paths - {str(f) for f in valid_papers_rel_file_paths}
+-    ):
++    valid_index_file_paths = {
++        (
++            str(pathlib.Path(index_settings.paper_directory).absolute() / f)
++            if index_settings.use_absolute_paper_directory
++            else str(f)
++        )
++        for f in valid_papers_rel_file_paths
++    }
++    extra_index_files = {
++        indexed_file_path
++        for indexed_file_path in index_unique_file_paths
++        if (
++            str(
++                pathlib.Path(index_settings.paper_directory).absolute()
++                / indexed_file_path
++            )
++            if (
++                index_settings.use_absolute_paper_directory
++                and not pathlib.Path(indexed_file_path).is_absolute()
++            )
++            else str(indexed_file_path)
++        )
++        not in valid_index_file_paths
++    }
++    if extra_index_files:
+         if index_settings.sync_with_paper_directory:
+             for extra_file in extra_index_files:
+                 logger.warning(
